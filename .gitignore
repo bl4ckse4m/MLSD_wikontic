@@ -1,0 +1,41 @@
+# Local development
+.venv/
+.venv-*/
+.idea/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+.cache/
+.coverage
+htmlcov/
+
+# Secrets: do not place private documents or credentials in the project
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+
+# Local ML artifacts, not documentation or small contract examples
+data/raw/
+data/processed/
+datasets/
+models/
+checkpoints/
+teacher_outputs/
+inference_outputs/
+outputs/
+runs/
+wandb/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.gguf
