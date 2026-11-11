@@ -1,0 +1,31 @@
+name: Development checks
+
+'on':
+  push:
+    branches: [main, hw_1]
+  pull_request:
+    branches: [main, hw_1]
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.2.2
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5.6.0
+        with:
+          python-version: '3.12'
+      - name: Install development tools
+        run: python -m pip install -r requirements-dev.txt
+      - name: Install scaffold without runtime dependencies
+        run: python -m pip install --no-deps --no-build-isolation -e .
+      - name: Lint
+        run: ruff check .
+      - name: Format check
+        run: ruff format --check .
+      - name: Validate hook configuration without running hooks
+        run: pre-commit validate-config
