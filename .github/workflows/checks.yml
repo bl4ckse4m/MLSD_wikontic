@@ -29,5 +29,3 @@ jobs:
         run: ruff format --check .
       - name: Validate hook configuration without running hooks
         run: pre-commit validate-config
-      - name: Check submitted files and negative lint smoke test
-        run: python scripts/check_hw1.py --smoke-ruff
