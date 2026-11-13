@@ -1,0 +1,4 @@
+left,right,exact_texts,normalized_texts,shared_titles,spo_jaccard_pairs,spo_jaccard_mean,spo_sets_differ
+H,M,0,1,12,1,0.6923076923076923,1
+H,G,0,5,28,5,0.21937262652096412,5
+M,G,514,514,683,514,0.1607265749231036,512

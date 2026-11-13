@@ -1,0 +1,3053 @@
+dataset,relation,count
+H,Carnegie Classification of Institutions of Higher Education,1
+H,Commons media contributed by,2
+H,General Material Designation,2
+H,IUCN conservation status,3
+H,JMK film rating,2
+H,Modern Shrine Ranking,2
+H,UTC date of spacecraft launch,1
+H,academic degree,26
+H,academic major,3
+H,academic thesis,1
+H,access restriction status,8
+H,accredited by,5
+H,acknowledged,2
+H,activator of,2
+H,adjacent building,9
+H,adjacent station,5
+H,admissible rule in,3
+H,advertises,2
+H,affiliation,23
+H,afflicts,2
+H,afterward owned by,28
+H,age of subject at event,7
+H,agent of action,95
+H,airline hub,1
+H,allegiance,5
+H,ammunition,1
+H,ancestral home,1
+H,animal breed,1
+H,announced at,6
+H,announcement date,19
+H,antagonist of,6
+H,anthem,1
+H,appears in the form of,9
+H,applies to jurisdiction,28
+H,applies to part,22
+H,applies to people,12
+H,appointed by,7
+H,approved by,10
+H,architect,26
+H,architectural style,33
+H,archives at,2
+H,area,6
+H,armament,12
+H,art director,1
+H,artist files at,2
+H,artistic director,4
+H,assessment outcome,2
+H,attested in,1
+H,author,94
+H,author of foreword,20
+H,authority,54
+H,average speed,1
+H,award received,297
+H,axle track,3
+H,backup or reserve team or crew,6
+H,ballots cast,1
+H,based on,101
+H,basic form of government,6
+H,beforehand owned by,7
+H,best combative classification,1
+H,biological variant of,1
+H,blocker of,1
+H,board member,15
+H,bowling style,1
+H,box office,7
+H,brand,13
+H,broadcast by,82
+H,broader concept,4
+H,budget,2
+H,business model,2
+H,camera setup,2
+H,candidacy in election,5
+H,candidate,2
+H,capital,6
+H,capital cost,2
+H,capital of,15
+H,carries passengers or cargo,3
+H,cast member,16
+H,catalog,12
+H,category for deaths in this time period,2
+H,category for films shot at this location,6
+H,category of associated people,2
+H,cause of death,10
+H,cause of destruction,3
+H,chairperson,5
+H,character designer,3
+H,character role,112
+H,characteristic of,88
+H,characters,15
+H,charted in,1
+H,chief executive officer,1
+H,chief operating officer,4
+H,child,68
+H,child organization/unit,13
+H,chord progression,1
+H,choreographer,3
+H,cites work,1
+H,class of object(s) of occurrence,4
+H,clerked for,1
+H,closed on,2
+H,coach of sports team,14
+H,coextensive with,2
+H,collection,20
+H,collection or exhibition size,1
+H,colonel-in-chief,3
+H,color,19
+H,color space,1
+H,commanded by,28
+H,commemorates,31
+H,commissioned by,8
+H,competition class,4
+H,competition won,25
+H,composer,2
+H,concentration,1
+H,conferred by,17
+H,connecting line,5
+H,connects with,75
+H,constraint status,4
+H,consumption rate per capita,2
+H,container,4
+H,contains,76
+H,contains the administrative territorial entity,8
+H,content deliverer,1
+H,contributing factor of,4
+H,contributor to the creative work or subject,5
+H,convicted of,7
+H,coolant,2
+H,copyright status,1
+H,costume designer,2
+H,count of students,9
+H,counterpart position,2
+H,country,156
+H,country of citizenship,475
+H,country of origin,265
+H,country of registry,1
+H,court,1
+H,cover art by,4
+H,covered period,5
+H,created during,7
+H,created for,33
+H,creator,144
+H,crew member,1
+H,criterion used,36
+H,crosses,18
+H,cuisine,3
+H,culture,1
+H,curator,1
+H,curriculum topics,2
+H,damaged,4
+H,date of baptism,2
+H,date of birth,501
+H,date of death,232
+H,date of disappearance,1
+H,date of first performance,8
+H,date of incorporation,5
+H,date of official closure,6
+H,date of official opening,9
+H,date of the first one,6
+H,date popularized,4
+H,date postally canceled,2
+H,day of week,8
+H,debut date,2
+H,dedicated heritage entity,1
+H,dedicated to,7
+H,defender,2
+H,departure transaction,3
+H,depends on software,1
+H,depicted by,1
+H,depicted format,15
+H,depicts,71
+H,derivative work,50
+H,described by source,48
+H,describes a project that uses,1
+H,designed by,4
+H,designed to carry,3
+H,destination of transfer,24
+H,destination point,3
+H,destroyed,3
+H,determination method or standard,6
+H,developer,51
+H,develops from,44
+H,diameter,1
+H,different from,185
+H,digital equivalent of,3
+H,digital representation of,4
+H,digital rights management system,2
+H,direction,2
+H,direction relative to location,2
+H,director,194
+H,director / manager,38
+H,discharge,1
+H,discontinued date,5
+H,discoverer or inventor,19
+H,disease transmission process,1
+H,dissertation program,1
+H,"dissolved, abolished or demolished date",33
+H,distance from river mouth,1
+H,distributed from,2
+H,distribution format,6
+H,doctoral advisor,2
+H,does not have cause,1
+H,does not have characteristic,3
+H,does not have effect,2
+H,does not have part,6
+H,does not use,2
+H,domain of saint or deity,2
+H,donated by,3
+H,donations,3
+H,draft,1
+H,drafted by,8
+H,drainage basin,2
+H,duration,16
+H,earliest date,1
+H,editor,4
+H,editor-in-chief,7
+H,educated at,99
+H,educational stage,1
+H,effective date,1
+H,elected in,2
+H,elevation above sea level,8
+H,eligible recipient,3
+H,employees,6
+H,employer,112
+H,emulates,2
+H,end cause,11
+H,end period,6
+H,end time,60
+H,endemic to,7
+H,endorsed by,12
+H,endowment,1
+H,enemy,3
+H,engine displacement,1
+H,equivalent in higher rank taxon,1
+H,ethnic group,21
+H,event interval,1
+H,excluding,23
+H,exemplar of,5
+H,exhibited creator,9
+H,exhibition history,22
+H,expected completeness,1
+H,expression of,2
+H,fabrication method,1
+H,facet of,6
+H,family name,3
+H,father,31
+H,fee,1
+H,fictional or mythical analog of,1
+H,field of usage,8
+H,field of work,134
+H,film crew member,353
+H,film editor,6
+H,filming location,21
+H,final event,3
+H,first appearance,15
+H,first attested from,12
+H,first performance by,11
+H,flag,1
+H,floors above ground,12
+H,floruit,2
+H,followed by,38
+H,follower of,1
+H,follows,156
+H,follows spelling pattern,4
+H,foods traditionally associated,2
+H,for color scheme,5
+H,forgery after,1
+H,form of creative work,2
+H,found in taxon,3
+H,foundational text,11
+H,founded by,185
+H,franchisor,1
+H,frequency,15
+H,front and back matter,5
+H,funded by grant,1
+H,funder,8
+H,funding scheme,1
+H,gained territory from,2
+H,game mechanics,4
+H,game mode,4
+H,gave up territory to,3
+H,general secretary,1
+H,genre,293
+H,geography of topic,2
+H,given name,24
+H,glacier status,1
+H,graduation rate,1
+H,grants,3
+H,greater than,15
+H,guest of honor,1
+H,habitat,2
+H,hair color,1
+H,"handled, mitigated, or managed by",6
+H,has boundary,12
+H,has cause,53
+H,has certification,7
+H,has characteristic,223
+H,has contributing factor,4
+H,has effect,110
+H,has facility,55
+H,has goal,118
+H,has immediate cause,2
+H,has listed ingredient,5
+H,has lyrics,2
+H,has part(s),1067
+H,has part(s) of the class,22
+H,has pattern,5
+H,has role in modeling,1
+H,has semantic argument,3
+H,has sorting,7
+H,has surface,3
+H,has use,160
+H,has works in the collection,51
+H,has written for,34
+H,head coach,32
+H,head of government,2
+H,headquarters location,76
+H,height,3
+H,heritage designation,1
+H,highest note,3
+H,highest point,2
+H,history of topic,1
+H,home venue,46
+H,homonymous taxon,1
+H,honorific prefix,3
+H,honorific suffix,3
+H,house publication,3
+H,iconically alludes to,1
+H,iconographic symbol,2
+H,identifier shared with,2
+H,identifies,14
+H,identity of subject in context,3
+H,illustrator,9
+H,immediate cause of,9
+H,implementation of,2
+H,in operation on service,7
+H,in opposition to,29
+H,in work,44
+H,incarnation of,11
+H,inception,292
+H,incidence,1
+H,including,43
+H,indigenous to,22
+H,individual of taxon,1
+H,industry,56
+H,inflows,1
+H,influenced by,83
+H,inscription mentions,3
+H,inspired by,39
+H,instance of,1442
+H,instrument,8
+H,instrumentation,2
+H,intangible cultural heritage status,2
+H,intended public,30
+H,interested in,5
+H,investigated by,2
+H,investor,13
+H,is a list of,1
+H,is pollinated by,2
+H,item disputed by,7
+H,item operated,13
+H,items classified,1
+H,judge,1
+H,key performance indicator,5
+H,killed by,5
+H,language of work or name,43
+H,language style,2
+H,language used,2
+H,"languages spoken, written or signed",15
+H,last appearance,15
+H,last update,1
+H,league level above,4
+H,league level below,1
+H,league or competition,93
+H,leased to,4
+H,legal form,1
+H,legislated by,6
+H,length,31
+H,less than,5
+H,licensed to broadcast to,11
+H,likes of fictional character,1
+H,linguistic typology,1
+H,list item,3
+H,located in or next to body of water,14
+H,located in protected area,3
+H,located in the administrative territorial entity,319
+H,located in the present-day administrative territorial entity,1
+H,located in/on physical feature,64
+H,located on street,23
+H,location,488
+H,location of creation,14
+H,location of discovery,8
+H,location of formation,71
+H,location of sense usage,1
+H,location of the point of view,3
+H,lyricist,108
+H,made from material,20
+H,main building contractor,9
+H,main food source,2
+H,main subject,221
+H,maintained by,9
+H,mandates,2
+H,manifestation of,1
+H,manner of,10
+H,manner of death,5
+H,manufacturer,25
+H,market capitalization,1
+H,mascot,2
+H,mass,1
+H,maximum capacity,5
+H,maximum size or capacity,5
+H,may prevent disease,1
+H,mean lifetime,1
+H,medical condition,2
+H,member count,13
+H,member of,297
+H,member of political party,27
+H,member of sports team,172
+H,member of the crew of,6
+H,members have occupation,3
+H,merged into,34
+H,military branch,1
+H,military casualty classification,2
+H,military unit,1
+H,model item,1
+H,most populous urban area,2
+H,mother,25
+H,motif represents,1
+H,motto,5
+H,mount,1
+H,mouth of the watercourse,3
+H,movement,9
+H,mushroom ecological type,1
+H,music created for,70
+H,musical conductor,7
+H,named after,279
+H,named by,18
+H,narrative location,20
+H,national team appearances,1
+H,native language,2
+H,nature of statement,14
+H,next higher rank,8
+H,next lower rank,3
+H,noble title,6
+H,nomenclatural status,1
+H,nominated by,10
+H,nominated for,30
+H,nominee,46
+H,not found in,4
+H,notable role,5
+H,notable work,374
+H,number of branches,16
+H,number of cases,3
+H,number of children,8
+H,number of deaths,11
+H,number of downloads,1
+H,number of draws/ties,11
+H,number of episodes,27
+H,number of graves,2
+H,number of houses,2
+H,number of lanes,2
+H,number of losses,9
+H,number of matches played/races/starts,22
+H,number of medals,1
+H,number of participants,12
+H,number of parts of this work,9
+H,number of platform tracks,1
+H,number of points/goals attempted,1
+H,number of points/goals/set scored,9
+H,number of rooms,1
+H,number of seasons,7
+H,number of seats in assembly,4
+H,"number of speakers, writers, or signers",2
+H,number of submissions,1
+H,number of subscribers,2
+H,number of victims of killer,1
+H,number of viewers/listeners,12
+H,number of wins,37
+H,number of works,65
+H,object of occurrence,7
+H,object of statement has role,2
+H,observed in,13
+H,occupant,17
+H,occupation,1041
+H,offers view on,1
+H,office contested,1
+H,office held by head of government,2
+H,official color,1
+H,official language,8
+H,official residence,2
+H,official symbol,6
+H,officialized by,13
+H,officially opened by,3
+H,online access status,8
+H,online service,3
+H,open days,1
+H,operating area,57
+H,operator,127
+H,opposite of,11
+H,ordered by,1
+H,organization directed by the office or position,7
+H,organizational divisions,8
+H,organizer,23
+H,origin of the watercourse,5
+H,original combination,36
+H,original film format,2
+H,original language of film or TV show,22
+H,outflows,1
+H,owned by,96
+H,owner of,54
+H,parent,22
+H,parent organization,27
+H,parent taxon,35
+H,parliamentary term,2
+H,part of,548
+H,part of the series,6
+H,partially coincident with,54
+H,participant,142
+H,participant in,302
+H,participated in conflict,18
+H,participating team,2
+H,partner in business or sport,11
+H,partnership with,14
+H,party chief representative,8
+H,patient of,5
+H,patron saint,1
+H,patronage,7
+H,penalty,2
+H,performer,190
+H,permanent duplicated item,2
+H,permits,1
+H,perpetrator,7
+H,personality trait of fictional character,5
+H,phonographic copyright,2
+H,physically interacts with,1
+H,place of birth,123
+H,place of burial,10
+H,place of death,20
+H,place of detention,1
+H,place of disappearance,1
+H,place of publication,12
+H,place served by transport hub,9
+H,plaintiff,2
+H,platform,77
+H,plea,3
+H,podium finishes,2
+H,point in time,143
+H,points for,2
+H,points/goal scored by,4
+H,political alignment,3
+H,political ideology,11
+H,population,20
+H,position held,482
+H,position held by head of the organization,2
+H,position holder,22
+H,position in biological sequence,2
+H,position played on team / speciality,41
+H,possessed by spirit,1
+H,powered by,14
+H,practiced by,9
+H,precipitation height,1
+H,predicate for,1
+H,prerequisite,3
+H,present in work,38
+H,presented in,17
+H,presented works,174
+H,presenter,6
+H,price,1
+H,primary destinations,11
+H,prize money,1
+H,produced by,243
+H,producer,11
+H,product certification,5
+H,product or material produced,208
+H,production date,6
+H,production rate,9
+H,production statistics,1
+H,professional name,8
+H,professorship,7
+H,prohibits,3
+H,pronunciation variety,24
+H,proportion,2
+H,public transport stop,5
+H,publication date,237
+H,publication interval,2
+H,publisher,68
+H,qualifies for event,1
+H,quantity,88
+H,radio format,5
+H,ranking,16
+H,rate of fire,1
+H,rating,15
+H,record label,102
+H,record of,149
+H,record or record progression,6
+H,recorded at studio or venue,4
+H,recorded participant,1
+H,recording date,9
+H,recording location,8
+H,recording or performance of,73
+H,recordist,50
+H,recovered by,9
+H,rector,1
+H,referee,1
+H,"references work, tradition or theory",7
+H,refine date,31
+H,registration district,7
+H,regulated by,7
+H,reissue of,3
+H,relative,30
+H,relative to,83
+H,religion or worldview,10
+H,religious order,1
+H,remix of,1
+H,repeals,1
+H,replaced by,32
+H,replaced synonym of,1
+H,replaces,45
+H,reply to,1
+H,reports to,1
+H,represented by,17
+H,represents,92
+H,research site,2
+H,residence,61
+H,results,3
+H,reviewed by,3
+H,reward,1
+H,reward program,2
+H,role of agent(s) of action,2
+H,running mate,7
+H,said to be the same as,39
+H,samples from work,8
+H,scenographer,1
+H,school of,10
+H,score method,6
+H,season,2
+H,season of club or team,4
+H,season starts,14
+H,section number,12
+H,seed,4
+H,semantic gender,3
+H,separated from,10
+H,service entry,3
+H,service retirement,1
+H,setlist,33
+H,sex or gender,4
+H,shape,3
+H,shares border with,26
+H,showrunner,4
+H,sibling,33
+H,side effect,1
+H,sidekick of,1
+H,signatory,9
+H,signed form,2
+H,significant event,79
+H,significant person,43
+H,significant place,18
+H,signum,1
+H,simulates,1
+H,social classification,1
+H,software engine,2
+H,source of income,5
+H,source of transfer,16
+H,sourcing circumstances,7
+H,space launch vehicle,1
+H,spoken by,3
+H,sponsor,12
+H,sport,23
+H,sports competition competed at,1
+H,sports discipline competed in,2
+H,sports season of league or competition,8
+H,spouse,42
+H,squadron embarked,1
+H,stage reached,42
+H,start period,15
+H,start point,4
+H,start time,63
+H,state of use,5
+H,stated in,19
+H,statement describes,2
+H,statement disputed by,12
+H,statement is subject of,10
+H,statement supported by,18
+H,statistical leader,63
+H,stock exchange,1
+H,storage capacity,3
+H,structure replaced by,1
+H,structure replaces,1
+H,student,2
+H,student of,33
+H,subclass of,18
+H,subject has role,107
+H,substitute/deputy/replacement of office/officeholder,1
+H,successful candidate,3
+H,superhuman feature or ability,1
+H,supervised by,3
+H,supplement to,1
+H,surface played on,2
+H,symbol of,5
+H,symbolizes,6
+H,talk show guest,1
+H,target,1
+H,taxon author,4
+H,taxon found at location,7
+H,taxon range,10
+H,taxon rank,4
+H,taxon synonym,16
+H,taxon synonym of,3
+H,taxonomic type,4
+H,team captain,3
+H,television judge,11
+H,term length of position,1
+H,terminus,47
+H,terminus location,4
+H,territory claimed by,3
+H,theorized by,23
+H,time gap,1
+H,time index,3
+H,time of discovery or invention,2
+H,time of earliest written record,2
+H,time period,51
+H,title page number,1
+H,together with,172
+H,tone or pitch accent class,1
+H,total points in career,1
+H,total produced,9
+H,total revenue,3
+H,total valid votes,1
+H,track gauge,2
+H,trained by,2
+H,translation of,17
+H,translator,4
+H,transport network,1
+H,tributary,4
+H,trophy awarded,2
+H,type locality (geology),2
+H,type of electrification,1
+H,type of reference,2
+H,typeface/font used,1
+H,units sold,17
+H,unmarried partner,13
+H,unveiled by,2
+H,use restriction status,2
+H,used by,54
+H,uses,84
+H,valid in period,14
+H,valid in place,14
+H,"variety of lexeme, form or sense",16
+H,vehicle normally used,11
+H,verdict,1
+H,vessel,1
+H,vessel class,3
+H,via,19
+H,visitors per year,1
+H,voice actor,58
+H,voice type,3
+H,volume as quantity,1
+H,wavelength,1
+H,wears,2
+H,website account on,1
+H,wing configuration,1
+H,winner,36
+H,work location,44
+H,work period (end),3
+H,work period (start),8
+H,writing system,1
+H,year of publication of scientific name for taxon,1
+M,CNC film rating (France),13
+M,General Material Designation,3
+M,Köppen climate classification,20
+M,Modern Shrine Ranking,11
+M,NZTCS conservation status,1
+M,UTC date of spacecraft launch,3
+M,WFD Ecological status,1
+M,World Heritage criteria,2
+M,academic degree,25
+M,academic major,16
+M,academic thesis,1
+M,access restriction status,31
+M,accredited by,8
+M,acknowledged,31
+M,activator of,1
+M,addressee,9
+M,adjacent building,13
+M,adjacent station,4
+M,admissible rule in,1
+M,advertises,3
+M,affiliation,56
+M,afterward owned by,30
+M,age estimated by a dating method,1
+M,age of onset of sexual maturity,1
+M,age of subject at event,22
+M,agent of action,105
+M,airline hub,16
+M,allegiance,26
+M,ancestral home,12
+M,animator,1
+M,announced at,5
+M,announcement date,15
+M,antagonist of,4
+M,anthem,1
+M,appeals to,3
+M,appears before phonological feature,1
+M,appears in the form of,14
+M,applies to jurisdiction,91
+M,applies to part,119
+M,applies to people,90
+M,appointed by,35
+M,approved by,78
+M,architect,48
+M,architectural style,21
+M,archives at,6
+M,area,17
+M,armament,6
+M,arterial supply,1
+M,assessment outcome,9
+M,associated electoral district,6
+M,attendance,7
+M,attested in,3
+M,author,76
+M,author of foreword,25
+M,authority,417
+M,award received,601
+M,backup or reserve team or crew,1
+M,ballots cast,6
+M,base salary,10
+M,based on,69
+M,basic form of government,26
+M,beforehand owned by,23
+M,best combative classification,1
+M,biological phase,2
+M,blocker of,5
+M,board member,7
+M,box office,41
+M,brand,27
+M,broadcast by,164
+M,budget,4
+M,business model,4
+M,calculated from,3
+M,candidacy in election,8
+M,candidate,4
+M,capital,87
+M,capital cost,4
+M,capital of,100
+M,career plus-minus rating,2
+M,carries,3
+M,carries passengers or cargo,1
+M,carries scientific instrument,1
+M,cast member,11
+M,catalog,15
+M,catalogue raisonné,1
+M,category for births in this time period,1
+M,category for deaths in this time period,4
+M,category for honorary citizens of entity,3
+M,category for people buried here,6
+M,category for value same as Wikidata,1
+M,category of associated people,1
+M,cathedral,7
+M,cause of death,21
+M,cause of destruction,5
+M,chairperson,22
+M,character designer,1
+M,character role,253
+M,characteristic of,270
+M,characters,10
+M,charted in,9
+M,chassis,4
+M,chief executive officer,2
+M,child,137
+M,child organization/unit,24
+M,class of object(s) of occurrence,1
+M,classification of race,3
+M,coach of sports team,11
+M,coastline,2
+M,coextensive with,1
+M,collection,6
+M,collection or exhibition size,5
+M,colocated with,1
+M,colonel-in-chief,1
+M,color,15
+M,combination classification,4
+M,commanded by,34
+M,commemorates,45
+M,commissioned by,19
+M,compatible with,36
+M,competition class,12
+M,competition won,74
+M,complies with,9
+M,composer,8
+M,conferred by,51
+M,connecting line,3
+M,connector,2
+M,connects with,139
+M,constellation,2
+M,constraint status,18
+M,container,5
+M,contains,181
+M,contains settlement,3
+M,contains the administrative territorial entity,55
+M,content deliverer,4
+M,continent,4
+M,contributing factor of,11
+M,contributor to the creative work or subject,7
+M,convicted of,3
+M,coolant,1
+M,copyright holder,6
+M,copyright license,4
+M,copyright status,10
+M,cost of damage,3
+M,count of students,33
+M,counterpart position,3
+M,country,553
+M,country for sport,7
+M,country of citizenship,401
+M,country of origin,235
+M,court,2
+M,cover art by,2
+M,covered period,5
+M,created during,20
+M,created for,56
+M,creator,174
+M,crew member,22
+M,criterion used,97
+M,crosses,5
+M,cruise speed,1
+M,culture,3
+M,curator,1
+M,curriculum topics,1
+M,damaged,2
+M,data analysis method,3
+M,date of application,3
+M,date of baptism,1
+M,date of birth,463
+M,date of commercialization,3
+M,date of death,268
+M,date of first performance,13
+M,date of incorporation,5
+M,date of official closure,7
+M,date of official opening,13
+M,date of promulgation,4
+M,date of the first one,2
+M,date popularized,3
+M,date postally canceled,1
+M,day in year for periodic occurrence,6
+M,day of regular release,2
+M,day of week,8
+M,debut date,13
+M,dedicated heritage entity,1
+M,dedicated to,24
+M,defendant,3
+M,defender,8
+M,degrees day,2
+M,demographics of topic,1
+M,demonym of,3
+M,departure transaction,1
+M,depends on software,1
+M,depicted by,1
+M,depicted format,18
+M,depicted part,1
+M,depicts,58
+M,deprecated in version,1
+M,derivative work,25
+M,derived from base unit,2
+M,described by source,77
+M,designated as terrorist by,2
+M,designed by,24
+M,designed to carry,5
+M,destination of transfer,80
+M,destination point,11
+M,destroyed,10
+M,determination method or standard,35
+M,developer,66
+M,develops from,102
+M,dialect of,3
+M,different from,212
+M,digital representation of,2
+M,digital rights management system,1
+M,diocese,14
+M,diplomatic mission sent,1
+M,direction,1
+M,direction relative to location,10
+M,director,143
+M,director / manager,30
+M,director of photography,2
+M,disabled accessibility,1
+M,discharge,6
+M,discontinued date,15
+M,discoverer or inventor,89
+M,disease burden,1
+M,disjoint union of,1
+M,dislikes of fictional character,1
+M,"dissolved, abolished or demolished date",52
+M,distributed by,8
+M,distribution format,4
+M,doctoral advisor,2
+M,documentation files at,1
+M,does not have cause,4
+M,does not have characteristic,27
+M,does not have effect,13
+M,does not have part,29
+M,does not use,7
+M,domain of saint or deity,1
+M,donated by,7
+M,donations,1
+M,drafted by,20
+M,drainage basin,2
+M,duration,28
+M,earliest date,4
+M,earthquake magnitude on the moment magnitude scale,1
+M,ecoregion (WWF),5
+M,editor,3
+M,editor-in-chief,3
+M,educated at,125
+M,educational stage,6
+M,effective date,3
+M,effective firing range,1
+M,elected in,7
+M,election called by,1
+M,electoral district,2
+M,elevation above sea level,25
+M,employees,13
+M,employer,114
+M,emulates,7
+M,enclosure,1
+M,end cause,41
+M,end period,26
+M,end time,239
+M,endorsed by,10
+M,enemy,3
+M,epithet,2
+M,equivalent in higher rank taxon,1
+M,estimated value,4
+M,ethnic group,111
+M,event interval,2
+M,excluding,64
+M,exhibition history,4
+M,expected completeness,6
+M,expression of,26
+M,fabrication method,4
+M,face value,1
+M,facet of,10
+M,family,5
+M,fastest laps,2
+M,father,48
+M,feast day,4
+M,fee,5
+M,female population,1
+M,fictional or mythical analog of,1
+M,field of usage,11
+M,field of work,130
+M,file format,1
+M,film crew member,191
+M,film editor,4
+M,filming location,46
+M,first appearance,7
+M,first attested from,22
+M,first performance by,17
+M,flag,2
+M,flash point,1
+M,floors above ground,1
+M,floruit,2
+M,followed by,104
+M,follower of,10
+M,follows,228
+M,follows spelling pattern,6
+M,foods traditionally associated,2
+M,for color scheme,5
+M,force,2
+M,forgery after,1
+M,found in taxon,2
+M,foundational text,35
+M,founded by,174
+M,franchisor,1
+M,frequency,19
+M,front and back matter,2
+M,funder,35
+M,gained territory from,70
+M,game designer,1
+M,game mode,8
+M,gave up territory to,11
+M,genetic association,2
+M,genre,229
+M,geography of topic,3
+M,gestation period,1
+M,given name,26
+M,godparent,3
+M,grammatical option indicates,3
+M,grants,2
+M,greater than,39
+M,gross tonnage,1
+M,habitat,3
+M,hair color,2
+M,"handled, mitigated, or managed by",25
+M,has boundary,57
+M,has cause,163
+M,has certification,7
+M,has characteristic,517
+M,has contributing factor,21
+M,has effect,530
+M,has facility,42
+M,has goal,285
+M,has graphical element,2
+M,has heir or beneficiary,7
+M,has immediate cause,9
+M,has listed ingredient,2
+M,has part(s),1602
+M,has part(s) of the class,20
+M,has pattern,1
+M,has pet,1
+M,has phenotype,6
+M,has phoneme,1
+M,has role in modeling,2
+M,"has seal, badge, or sigil",1
+M,has semantic argument,2
+M,has sorting,12
+M,has surface,29
+M,has use,315
+M,has works in the collection,2
+M,has written for,4
+M,head coach,12
+M,head of government,15
+M,head of state,12
+M,headquarters location,162
+M,height,7
+M,heritage designation,5
+M,highest judicial authority,3
+M,highest note,1
+M,highest point,11
+M,history of topic,1
+M,home venue,136
+M,honorific prefix,5
+M,house publication,3
+M,iconically alludes to,3
+M,iconographic symbol,3
+M,identifier shared with,5
+M,identifies,18
+M,identity of object in context,1
+M,identity of subject in context,2
+M,illustrator,2
+M,immediate cause of,8
+M,implementation of,27
+M,in operation on service,4
+M,in opposition to,123
+M,in work,48
+M,incarnation of,24
+M,inception,491
+M,incidence,25
+M,including,81
+M,indigenous to,16
+M,individual tax rate,2
+M,industry,48
+M,inferred from,10
+M,inflows,6
+M,influenced by,164
+M,inscription mentions,13
+M,inspired by,36
+M,instance of,2317
+M,instrument,5
+M,instrumentation,9
+M,intended public,31
+M,intended subject of deprecated statement,7
+M,interested in,13
+M,interior designer,1
+M,investigated by,7
+M,investor,9
+M,is the study of,2
+M,issued by,1
+M,item disputed by,14
+M,item for this sense,1
+M,item inherits statement from,5
+M,item operated,11
+M,items classified,3
+M,key performance indicator,11
+M,killed by,16
+M,language of work or name,63
+M,language style,3
+M,language used,14
+M,"languages spoken, written or signed",50
+M,laps completed,4
+M,last appearance,35
+M,last update,1
+M,latest date,1
+M,league level above,2
+M,league level below,8
+M,league or competition,241
+M,leased to,7
+M,legal form,1
+M,legal status (medicine),10
+M,legislated by,29
+M,legislative body,67
+M,legislative committee,2
+M,length,61
+M,less than,11
+M,licensed to broadcast to,15
+M,life expectancy,2
+M,lifestyle,1
+M,likes of fictional character,10
+M,linguistic typology,1
+M,list item,18
+M,located in or next to body of water,70
+M,located in protected area,6
+M,located in the administrative territorial entity,1073
+M,located in the present-day administrative territorial entity,11
+M,located in the religious territorial entity,3
+M,located in the statistical territorial entity,2
+M,located in time zone,3
+M,located in/on physical feature,260
+M,located on street,45
+M,location,1030
+M,location of creation,13
+M,location of discovery,8
+M,location of formation,81
+M,location of landing,1
+M,lowest income threshold,1
+M,lowest point,2
+M,lyricist,112
+M,made from material,14
+M,madhhab,2
+M,main building contractor,15
+M,main food source,2
+M,main regulatory text,12
+M,main subject,307
+M,maintained by,47
+M,maintains linking to,8
+M,male population,7
+M,mandates,26
+M,manifestation of,24
+M,manner of,13
+M,manner of death,10
+M,manufacturer,79
+M,mascot,9
+M,mass,4
+M,matched by identifier from,1
+M,maximum age,1
+M,maximum capacity,17
+M,maximum current,3
+M,maximum size or capacity,20
+M,maximum sustained winds,2
+M,maximum viable temperature,1
+M,may prevent disease,1
+M,mean age,12
+M,mean lifetime,3
+M,measured physical quantity,1
+M,median household income,1
+M,medical condition,11
+M,medically indicated in case of,1
+M,meeting of,1
+M,member count,36
+M,member of,230
+M,member of cabinet,1
+M,member of political party,54
+M,member of sports team,274
+M,member of the crew of,9
+M,members have occupation,14
+M,merged into,77
+M,military branch,2
+M,military casualty classification,7
+M,minimum age,1
+M,minimum viable temperature,1
+M,mirrors data from,1
+M,model item,4
+M,model year,4
+M,most populous urban area,46
+M,mother,28
+M,motto,5
+M,mount,1
+M,mountain range,3
+M,mountains classification,2
+M,mouth of the watercourse,27
+M,multi-channel network,2
+M,music created for,51
+M,musical conductor,2
+M,named after,458
+M,named by,45
+M,named place on map,3
+M,narrative age,6
+M,narrative location,8
+M,national team appearances,2
+M,native language,2
+M,nature of statement,24
+M,next higher rank,13
+M,next level in hierarchy,3
+M,next lower rank,21
+M,noble title,40
+M,nominal GDP,1
+M,nominal GDP per capita,2
+M,nominated by,17
+M,nominated for,44
+M,nominee,55
+M,not found in,1
+M,notable role,28
+M,notable work,331
+M,number confirmed,2
+M,number of arrests,1
+M,number of branches,28
+M,number of cases,18
+M,number of casualties,2
+M,number of children,3
+M,number of constituencies,3
+M,number of deaths,25
+M,number of draws/ties,2
+M,number of episodes,33
+M,number of graves,4
+M,number of hits,9
+M,number of households,24
+M,number of houses,3
+M,number of housing units,52
+M,number of injured,2
+M,number of losses,3
+M,number of matches played/races/starts,104
+M,number of medals,28
+M,number of pages,1
+M,number of participants,63
+M,number of parts of this work,13
+M,number of perpetrators,1
+M,number of platform faces,1
+M,number of platform tracks,1
+M,number of points/goals/set scored,30
+M,number of representations,3
+M,number of seasons,5
+M,number of seats,21
+M,number of seats in assembly,31
+M,"number of speakers, writers, or signers",2
+M,number of submissions,5
+M,number of subscribers,3
+M,number of teachers,1
+M,number of victims of killer,10
+M,number of viewers/listeners,4
+M,number of wins,207
+M,number of works,24
+M,number of works accessible online,1
+M,number probable,2
+M,numeric value,1
+M,oath of office date,1
+M,object of occurrence,36
+M,object of statement has role,9
+M,observed in,48
+M,occupant,32
+M,occupation,980
+M,of (DEPRECATED),5
+M,offers view on,10
+M,office contested,5
+M,office held by head of government,1
+M,official color,21
+M,official language,23
+M,official observer status in organization,1
+M,official residence,3
+M,official symbol,16
+M,officialized by,43
+M,officially opened by,2
+M,online access status,27
+M,online service,6
+M,operating area,116
+M,operating cost,4
+M,operating system,10
+M,operator,173
+M,opposite of,44
+M,ordered by,3
+M,organisation tax status,1
+M,organization directed by the office or position,26
+M,organizational divisions,64
+M,organizer,95
+M,orientation,6
+M,origin of the watercourse,18
+M,original broadcaster,3
+M,original combination,29
+M,original film format,5
+M,original language of film or TV show,11
+M,outflows,2
+M,overlies,1
+M,overrules,1
+M,owned by,112
+M,owner of,39
+M,parent,43
+M,parent club,1
+M,parent organization,39
+M,parent taxon,3
+M,parliamentary group,7
+M,parliamentary term,1
+M,part of,1019
+M,part of the series,5
+M,partially coincident with,88
+M,participant,354
+M,participant in,453
+M,participated in conflict,73
+M,participating team,6
+M,partner in business or sport,6
+M,partnership with,26
+M,party chief representative,17
+M,patient of,7
+M,patron saint,3
+M,patronage,12
+M,penalty,4
+M,per capita income,4
+M,performer,220
+M,period of lactation,1
+M,permanent duplicated item,1
+M,permanent resident of,2
+M,permits,5
+M,personality trait of fictional character,9
+M,phonographic copyright,2
+M,physically interacts with,23
+M,place of birth,201
+M,place of burial,11
+M,place of death,43
+M,place of detention,6
+M,place of publication,3
+M,place served by transport hub,43
+M,plaintiff,1
+M,platform,50
+M,playing hand,1
+M,plea,13
+M,podium finishes,2
+M,point in time,208
+M,points awarded,1
+M,points for,1
+M,points/goal scored by,8
+M,pole positions,3
+M,political alignment,29
+M,political ideology,9
+M,population,344
+M,position held,562
+M,position holder,24
+M,position played on team / speciality,60
+M,possible creator,3
+M,possible medical findings,2
+M,powered by,12
+M,practiced by,94
+M,precipitation height,30
+M,predicate for,1
+M,prerequisite,50
+M,present in work,32
+M,presented in,6
+M,presented works,154
+M,presenter,15
+M,price,5
+M,primary destinations,18
+M,printed by,1
+M,produced by,230
+M,producer,12
+M,product certification,7
+M,product or material produced,151
+M,production date,7
+M,production designer,3
+M,production statistics,9
+M,professional name,5
+M,professorship,2
+M,programmed in,1
+M,prohibits,21
+M,pronunciation variety,45
+M,proportion,17
+M,proxy,2
+M,public transport stop,5
+M,publication date,273
+M,publication interval,2
+M,publisher,55
+M,qualifies for event,2
+M,quantity,194
+M,quantity buried,3
+M,radio format,13
+M,ranking,38
+M,ratified by,3
+M,rating,61
+M,readership,1
+M,record label,83
+M,record of,200
+M,record or record progression,26
+M,recorded at studio or venue,5
+M,recorded participant,6
+M,recording date,26
+M,recording location,13
+M,recording or performance of,46
+M,recordist,41
+M,recovered by,42
+M,rector,2
+M,referee,6
+M,reference vocabulary,2
+M,refine date,48
+M,registration district,1
+M,regulated by,16
+M,reissue of,1
+M,relative,44
+M,relative to,166
+M,release of,1
+M,religion or worldview,114
+M,repealed by,1
+M,repeals,1
+M,replaced by,183
+M,replaces,121
+M,reports to,1
+M,represented by,29
+M,represents,184
+M,requires grammatical feature,1
+M,research project that contributed to this data set,1
+M,research site,1
+M,residence,133
+M,reviewed by,6
+M,reward,4
+M,right to vote,1
+M,risk factor,3
+M,role of agent(s) of action,3
+M,running mate,1
+M,runs batted in,4
+M,rural population,1
+M,said to be the same as,40
+M,samples from work,6
+M,school district,1
+M,school of,9
+M,score method,7
+M,season,1
+M,season starts,17
+M,section number,19
+M,seed,4
+M,semantic gender,1
+M,sensors,1
+M,separated from,46
+M,service entry,7
+M,service retirement,3
+M,set in environment,2
+M,set in period,3
+M,setlist,10
+M,settlement classification,3
+M,sex or gender,12
+M,sexual orientation,4
+M,shape,3
+M,shares border with,252
+M,shelf life,1
+M,shipping port,3
+M,showrunner,2
+M,sibling,74
+M,side effect,2
+M,sidekick of,3
+M,signatory,29
+M,signed form,2
+M,significant environmental impact,2
+M,significant event,206
+M,significant person,24
+M,significant place,55
+M,signum,1
+M,simulates,2
+M,sinogram reading pattern,1
+M,social classification,8
+M,solved by,1
+M,source of energy,1
+M,source of income,9
+M,source of transfer,50
+M,sourcing circumstances,6
+M,speaker,14
+M,species kept,1
+M,spoken by,19
+M,sponsor,42
+M,sport,86
+M,sports discipline competed in,1
+M,sports league level,4
+M,sports season of league or competition,5
+M,spouse,58
+M,stage reached,59
+M,start period,30
+M,start point,2
+M,start time,251
+M,state of use,14
+M,stated in,45
+M,statement describes,5
+M,statement disputed by,74
+M,statement is subject of,25
+M,statement supported by,53
+M,statistical leader,386
+M,stepparent,4
+M,stock exchange,3
+M,storage device,1
+M,structure replaced by,2
+M,structure replaces,4
+M,student of,12
+M,studied by,1
+M,study or design for,1
+M,subclass of,27
+M,subject has role,321
+M,substitute/deputy/replacement of office/officeholder,3
+M,successful candidate,1
+M,superhuman feature or ability,3
+M,supervised by,10
+M,supplement to,3
+M,supported metadata,2
+M,supported sports team,1
+M,symbol of,22
+M,symbol represents,3
+M,symbolizes,14
+M,symptoms and signs,31
+M,target,2
+M,taxon especially protected in area,4
+M,taxon found at location,5
+M,taxon range,6
+M,taxon rank,2
+M,taxon synonym,1
+M,team captain,2
+M,teams classification by points,1
+M,television judge,10
+M,temperature,4
+M,temporal range end,1
+M,term length of position,26
+M,terminus,14
+M,terminus location,1
+M,territory claimed by,18
+M,territory overlaps,5
+M,theorized by,58
+M,this taxon is source of,1
+M,time index,10
+M,time of discovery or invention,8
+M,time of earliest written record,1
+M,time period,106
+M,together with,203
+M,total assets,1
+M,total assists in career,1
+M,total expenditure,5
+M,total fertility rate,1
+M,total goals in career,6
+M,total liabilities,3
+M,total points in career,3
+M,total produced,7
+M,total reserves,1
+M,total revenue,11
+M,total valid votes,3
+M,trained by,11
+M,transcribed by,1
+M,translation of,6
+M,translator,1
+M,tributary,24
+M,trophy awarded,9
+M,twinned administrative body,2
+M,type locality (geology),3
+M,type of age limit,2
+M,type of document(s) held,1
+M,type of orbit,6
+M,type of water supply,4
+M,typeface/font used,4
+M,typically sells,1
+M,uncertainty corresponds to,1
+M,underlies,2
+M,union of,6
+M,units sold,17
+M,unmarried partner,15
+M,update method,1
+M,urban population,3
+M,use restriction status,14
+M,used by,112
+M,uses,135
+M,valid in period,32
+M,valid in place,24
+M,"variety of lexeme, form or sense",4
+M,verdict,2
+M,vertical depth,2
+M,vessel,2
+M,vessel class,8
+M,via,12
+M,victim(s),3
+M,visitors per year,2
+M,voice actor,167
+M,voice type,2
+M,volume as quantity,2
+M,voted on by,1
+M,warranty period,3
+M,water as percent of area,1
+M,wears,8
+M,website account on,23
+M,wheelbase,3
+M,width,3
+M,wind speed,9
+M,winner,124
+M,work location,49
+M,work period (end),3
+M,work period (start),8
+M,working memory type,1
+M,writable file format,2
+M,writing system,2
+G,CBFC rating,1
+G,CHVRS Classification,1
+G,CPU,6
+G,Classification of the Functions of Government,1
+G,Commons media contributed by,6
+G,Commons quality assessment,64
+G,Corruption Perceptions Index,3
+G,Democracy Index,1
+G,GDP (PPP),42
+G,GHS signal word,7
+G,GPU,1
+G,General Material Designation,108
+G,Han character in this lexeme,6
+G,Human Development Index,1
+G,IUCN conservation status,12
+G,IUCN protected areas category,3
+G,JMA Seismic Intensity Scale,7
+G,Köppen climate classification,232
+G,Modern Shrine Ranking,164
+G,NZTCS conservation status,3
+G,NatureServe conservation status,14
+G,PPP GDP per capita,4
+G,Philippine middle name,10
+G,Qualis rank,10
+G,RARS rating,10
+G,UEFA stadium category,4
+G,UNESCO language status,67
+G,UTC date of spacecraft landing,5
+G,UTC date of spacecraft launch,15
+G,UTC timezone offset,1
+G,WFD Ecological status,1
+G,Wi-Fi access,1
+G,World Heritage criteria,6
+G,abrasion resistance,1
+G,academic appointment,7
+G,academic degree,205
+G,academic major,131
+G,academic thesis,2
+G,access restriction status,230
+G,accredited by,95
+G,acknowledged,181
+G,activator of,5
+G,active ingredient in,11
+G,addressee,59
+G,adjacent building,122
+G,adjacent station,15
+G,admissible rule in,13
+G,advertises,3
+G,affiliation,671
+G,aftershocks,1
+G,afterward owned by,234
+G,age estimated by a dating method,6
+G,age of candidacy,1
+G,age of majority,11
+G,age of onset of sexual maturity,2
+G,age of subject at event,256
+G,agent of action,390
+G,airline hub,73
+G,alcohol by volume,6
+G,allegiance,207
+G,amended by,15
+G,ammunition,10
+G,amount cataloged,1
+G,anatomical location,2
+G,ancestral home,40
+G,angular resolution,2
+G,animal breed,3
+G,animator,10
+G,announced at,13
+G,announcement date,82
+G,annual average daily traffic,5
+G,annual energy output,1
+G,antagonist of,111
+G,anthem,64
+G,apparent magnitude,2
+G,appeals to,18
+G,appears after phonological feature,1
+G,appears before phonological feature,6
+G,appears in the form of,126
+G,applies to jurisdiction,578
+G,applies to part,1475
+G,applies to people,2383
+G,appointed by,369
+G,approved by,508
+G,archaeological site of,3
+G,architect,288
+G,architectural style,185
+G,archives at,13
+G,area,43
+G,armament,59
+G,art director,2
+G,arterial supply,2
+G,artist files at,5
+G,artistic director,7
+G,assessment,2
+G,assessment outcome,168
+G,assets under management,1
+G,assistant director,9
+G,associated electoral district,23
+G,associated hazard,1
+G,asteroid spectral type,1
+G,asteroid taxonomy,1
+G,athletics program,3
+G,attendance,44
+G,attested in,61
+G,author,1181
+G,author of foreword,356
+G,authority,2648
+G,average gradient,4
+G,avionics,1
+G,award received,1955
+G,backup or reserve team or crew,44
+G,ballots cast,32
+G,base salary,157
+G,based on,468
+G,bases on balls,13
+G,basic form of government,86
+G,beam,5
+G,beats per minute,1
+G,beforehand owned by,90
+G,beneficial owner,1
+G,best combative classification,25
+G,best sprinter classification,2
+G,binding energy,2
+G,binding of software library,1
+G,biobased content weight percentage,1
+G,biological phase,5
+G,biological variant of,2
+G,birthday,15
+G,block size,2
+G,blocker of,22
+G,board member,66
+G,bore,4
+G,bowling style,32
+G,box office,64
+G,brand,121
+G,breed belongs to taxon,3
+G,broadcast by,1001
+G,broader concept,51
+G,budget,68
+G,business model,11
+G,by-product,16
+G,by-product of,2
+G,calculated from,34
+G,caliber,6
+G,calligrapher,2
+G,camera setup,26
+G,candidacy in election,157
+G,candidate,85
+G,capital,836
+G,capital cost,28
+G,capital of,854
+G,carbon footprint,1
+G,cardinality of this set,4
+G,carries,24
+G,carries passengers or cargo,104
+G,carries scientific instrument,1
+G,cash,5
+G,cast member,33
+G,catalog,177
+G,catalogue raisonné,2
+G,category for births in this time period,81
+G,category for deaths in this time period,120
+G,category for films shot at this location,7
+G,category for honorary citizens of entity,6
+G,category for people buried here,16
+G,category for value same as Wikidata,8
+G,category of associated people,6
+G,cause of death,145
+G,cause of destruction,92
+G,cell component,1
+G,central bank/issuer,37
+G,central government debt as a percent of GDP,33
+G,chairperson,358
+G,character designer,1
+G,character role,4505
+G,character type,1
+G,characteristic of,566
+G,characters,24
+G,charted in,11
+G,chassis,6
+G,chief executive officer,26
+G,chief operating officer,3
+G,child,539
+G,child astronomical body,14
+G,child organization/unit,169
+G,choral conductor,1
+G,choreographer,10
+G,chromosome,3
+G,chronological designation,29
+G,circle of,5
+G,cites work,72
+G,class of agent(s) of action,7
+G,class of non-item property value,7
+G,class of object(s) of occurrence,32
+G,classification of race,13
+G,clearance,1
+G,clerked for,30
+G,clock frequency,2
+G,closed on,3
+G,closing time,2
+G,co-driver,3
+G,coach of sports team,59
+G,coastline,11
+G,coat of arms,9
+G,coefficient of friction,1
+G,coextensive with,42
+G,collection,131
+G,collection creator,6
+G,collection items at,5
+G,collection or exhibition size,12
+G,colonel-in-chief,67
+G,color,36
+G,color space,17
+G,combination classification,18
+G,commanded by,321
+G,commander of (DEPRECATED),27
+G,commemorates,376
+G,commissioned by,119
+G,companion of,6
+G,compatible with,192
+G,competition class,9
+G,competition won,397
+G,complies with,33
+G,composer,141
+G,compulsory education (maximum age),3
+G,concentration,2
+G,conferred by,331
+G,connecting line,30
+G,connects with,1493
+G,consecrator,10
+G,constellation,8
+G,constraint status,343
+G,consumption rate,1
+G,container,59
+G,contains,4031
+G,contains settlement,41
+G,contains the administrative territorial entity,639
+G,contains the statistical territorial entity,17
+G,content deliverer,16
+G,content descriptor,2
+G,continent,62
+G,contributed to creative work,2
+G,contributing factor of,112
+G,contributor to the creative work or subject,71
+G,conversion to SI unit,11
+G,conversion to standard unit,11
+G,convicted of,55
+G,copyright exemption,12
+G,copyright holder,40
+G,copyright status,16
+G,corporate officer,8
+G,cosplay of,4
+G,cost of damage,26
+G,costume designer,2
+G,count of students,151
+G,counterexample,1
+G,counterpart position,9
+G,country,1864
+G,country for sport,243
+G,country of citizenship,3394
+G,country of origin,1883
+G,country of registry,10
+G,counts instances of,199
+G,counts number of,25
+G,court,8
+G,cover art by,103
+G,covered period,46
+G,created by dam,2
+G,created during,140
+G,created for,505
+G,creates lexeme type,9
+G,creator,1900
+G,crew member,25
+G,criterion used,625
+G,crosses,223
+G,cruise speed,1
+G,cuisine,11
+G,culture,31
+G,curator,4
+G,currency,67
+G,curriculum topics,19
+G,daily patronage,1
+G,damaged,155
+G,data analysis method,7
+G,data size,2
+G,data transfer speed,1
+G,dataset distribution,1
+G,date of application,19
+G,date of baptism,8
+G,date of birth,3995
+G,date of burial or cremation,11
+G,date of commercialization,117
+G,date of death,2441
+G,date of disappearance,2
+G,date of first performance,238
+G,date of incorporation,73
+G,date of official closure,89
+G,date of official opening,456
+G,date of promulgation,185
+G,date of resignation,8
+G,date of the first one,91
+G,date of the latest one,8
+G,date popularized,8
+G,date postally canceled,1
+G,day in year for periodic occurrence,49
+G,day of regular release,7
+G,day of week,46
+G,debut date,34
+G,decays to,1
+G,dedicated heritage entity,25
+G,dedicated to,133
+G,defendant,19
+G,defender,65
+G,definition domain,3
+G,degree of difficulty,3
+G,degrees day,1
+G,demographics of topic,7
+G,demonym of,23
+G,denomination,52
+G,density,8
+G,departure transaction,91
+G,depends on software,2
+G,depicted by,6
+G,depicted format,335
+G,depicts,532
+G,depositary,3
+G,derivative work,277
+G,derived from base unit,11
+G,described by source,554
+G,designated as terrorist by,37
+G,designed by,122
+G,designed to carry,138
+G,destination of transfer,1202
+G,destination point,95
+G,destroyed,89
+G,deterioration,6
+G,determination method or standard,236
+G,developer,444
+G,develops from,709
+G,dialect of,21
+G,diameter,23
+G,diel cycle,5
+G,different from,1609
+G,digital equivalent of,17
+G,digital representation of,30
+G,digital rights management system,2
+G,digitised by,2
+G,diocese,4
+G,diplomatic mission sent,11
+G,diplomatic relation,19
+G,direction,74
+G,direction relative to location,59
+G,director,1142
+G,director / manager,426
+G,director of archaeological fieldwork,2
+G,director of photography,29
+G,director of publication,1
+G,disabled accessibility,10
+G,discharge,4
+G,discontinued date,94
+G,discoverer or inventor,978
+G,disease burden,7
+G,dislikes of fictional character,17
+G,display size (diagonal),9
+G,disrupting agent for,32
+G,dissertation program,8
+G,dissipation factor,2
+G,"dissolved, abolished or demolished date",447
+G,distance from Earth,3
+G,distributary,3
+G,distributed by,48
+G,distributed from,7
+G,distribution format,77
+G,doctoral advisor,22
+G,doctoral student,2
+G,documentation files at,9
+G,does not have cause,10
+G,does not have characteristic,273
+G,does not have effect,138
+G,does not have part,485
+G,does not use,88
+G,domain of saint or deity,20
+G,donated by,100
+G,donations,21
+G,doubles hit,3
+G,draft,30
+G,drafted by,62
+G,drainage basin,25
+G,driving side,1
+G,duration,374
+G,earliest date,60
+G,earned run average,7
+G,ecoregion (WWF),21
+G,edibility,1
+G,editor,64
+G,editor-in-chief,97
+G,educated at,961
+G,educational stage,100
+G,effective date,56
+G,effective firing range,7
+G,egg incubation period,1
+G,elected in,81
+G,election called by,5
+G,elector,1
+G,electoral district,55
+G,electorate,8
+G,electrical resistivity,2
+G,elevation above sea level,249
+G,eligible recipient,32
+G,eligible voters,1
+G,embargoed until,1
+G,embodied energy,1
+G,emergency services,1
+G,employees,118
+G,employer,983
+G,employment by economic sector,2
+G,emulates,26
+G,enclave within,7
+G,enclosure,2
+G,encoded by,3
+G,encodes,2
+G,encoding,109
+G,end cause,243
+G,end grade,2
+G,end period,284
+G,end time,1089
+G,endemic to,19
+G,endorsed by,178
+G,endowment,1
+G,enemy,38
+G,engine displacement,1
+G,epithet,43
+G,equivalent in higher rank taxon,13
+G,estimated value,19
+G,ethnic group,633
+G,event distance,2
+G,event interval,8
+G,excluding,446
+G,exemplar of,43
+G,exhibition history,16
+G,exonerated of,1
+G,expansion of,1
+G,expected completeness,78
+G,explosive energy equivalent,15
+G,expression of,304
+G,extinction date,2
+G,eye color,4
+G,fabrication method,36
+G,face value,44
+G,facet of,148
+G,family,22
+G,family name,42
+G,fare zone,6
+G,father,485
+G,feast day,5
+G,fee,21
+G,female population,5
+G,fictional or mythical analog of,14
+G,field of training,6
+G,field of usage,48
+G,field of work,1678
+G,file format,3
+G,film crew member,58
+G,film editor,50
+G,filming location,268
+G,final event,2
+G,fineness,5
+G,first appearance,100
+G,first attested from,197
+G,first flight,7
+G,first performance by,389
+G,flag,17
+G,floors above ground,89
+G,floors below ground,1
+G,floruit,15
+G,foliage type,13
+G,followed by,682
+G,follower of,77
+G,following halt on service,1
+G,follows,1181
+G,follows spelling pattern,12
+G,foods traditionally associated,59
+G,for color scheme,12
+G,force,33
+G,foreign direct investment net inflow,1
+G,forgery after,6
+G,form of creative work,6
+G,fossil found in this unit,2
+G,found in taxon,3
+G,foundational text,294
+G,founded by,1581
+G,franchisor,24
+G,frequency,466
+G,front and back matter,32
+G,funded by grant,8
+G,funder,239
+G,g-factor,2
+G,gained territory from,352
+G,galactic latitude,13
+G,galactic longitude,12
+G,game designer,5
+G,game mechanics,4
+G,game mode,15
+G,gave up territory to,244
+G,gender educated,16
+G,general manager,6
+G,general secretary,4
+G,generalization of,1
+G,generation time,10
+G,genetic association,2
+G,genre,2942
+G,geography of topic,29
+G,gestation period,11
+G,given name,113
+G,given name version for other gender,6
+G,glacier status,3
+G,godparent,2
+G,government debt-to-GDP ratio,50
+G,grace period,1
+G,grammatical gender,3
+G,grammatical option indicates,23
+G,grants,16
+G,greater than,405
+G,gross tonnage,2
+G,guest of honor,23
+G,habitat,112
+G,hair color,2
+G,half-life,2
+G,handedness,9
+G,"handled, mitigated, or managed by",194
+G,hardiness zone,3
+G,has anatomical branch,6
+G,has basionym,4
+G,has biological vector,3
+G,has boundary,538
+G,has cause,1377
+G,has certification,107
+G,has characteristic,3311
+G,has climbing route,1
+G,has contributing factor,144
+G,has effect,3407
+G,has facility,824
+G,has goal,2835
+G,has graphical element,32
+G,has heir or beneficiary,25
+G,has immediate cause,109
+G,has list,15
+G,has listed ingredient,82
+G,has lyrics,30
+G,has part(s),8060
+G,has part(s) of the class,255
+G,has pattern,23
+G,has pet,12
+G,has phenotype,22
+G,has phoneme,2
+G,has role in modeling,19
+G,"has seal, badge, or sigil",7
+G,has semantic argument,16
+G,has sorting,50
+G,has surface,492
+G,has use,2182
+G,has works in the collection,11
+G,has written for,142
+G,head coach,87
+G,head of government,208
+G,head of state,38
+G,headquarters location,932
+G,heat treating,1
+G,height,232
+G,heritage designation,82
+G,highest income threshold,9
+G,highest judicial authority,20
+G,highest note,3
+G,highest point,311
+G,historic county,1
+G,historical region,10
+G,history of topic,14
+G,holds diplomatic passport of,7
+G,home venue,310
+G,home world,4
+G,honorific prefix,48
+G,honorific suffix,3
+G,horizontal depth,1
+G,host,9
+G,hotel rating,10
+G,house publication,45
+G,hybrid of,1
+G,iconically alludes to,37
+G,iconographic symbol,4
+G,identifier shared with,19
+G,identifies,220
+G,identity of object in context,17
+G,identity of subject in context,32
+G,illustrator,98
+G,immediate cause of,32
+G,implementation of,229
+G,in operation on service,5
+G,in opposition to,1438
+G,in work,51
+G,incarnation of,76
+G,inception,3916
+G,incidence,24
+G,including,2110
+G,indexed in bibliographic review,2
+G,indexer,1
+G,indigenous to,284
+G,individual of taxon,16
+G,individual tax rate,44
+G,industry,363
+G,inferred from,36
+G,inflation rate,32
+G,inflows,18
+G,influenced by,1060
+G,inhibitor of,3
+G,inker,3
+G,inscription mentions,105
+G,inspired by,182
+G,instance of,17056
+G,instrument,271
+G,instrumentation,58
+G,intangible cultural heritage status,9
+G,intended public,241
+G,intended subject of deprecated statement,25
+G,interested in,267
+G,interleaves with,16
+G,introduced on,2
+G,invasive to,14
+G,investigated by,96
+G,investor,204
+G,is a list of,19
+G,is the study of,41
+G,is verso of,2
+G,issued by,57
+G,issuing agent of work,2
+G,item disputed by,141
+G,item for this sense,125
+G,item inherits statement from,41
+G,item operated,174
+G,items classified,88
+G,jockey,3
+G,judge,1
+G,key performance indicator,217
+G,killed by,188
+G,kinship to subject,4
+G,lake on watercourse,12
+G,landscape architect,1
+G,language of work or name,431
+G,language regulatory body,1
+G,language style,2
+G,language used,126
+G,"languages spoken, written or signed",305
+G,laps completed,6
+G,last appearance,447
+G,last update,67
+G,latest date,70
+G,latest end date,4
+G,latest start date,3
+G,laws applied,1
+G,league level above,55
+G,league level below,40
+G,league or competition,524
+G,leased to,50
+G,legal form,24
+G,legal status (medicine),206
+G,legislated by,201
+G,legislative body,70
+G,length,463
+G,less than,208
+G,level of description,1
+G,librettist,29
+G,licensed to broadcast to,166
+G,life expectancy,39
+G,lifestyle,7
+G,lighting,43
+G,lighting designer,1
+G,likes of fictional character,12
+G,linguistic typology,7
+G,list item,704
+G,list of works,3
+G,literacy rate,9
+G,litter size,2
+G,located in or next to body of water,332
+G,located in protected area,148
+G,located in the administrative territorial entity,15145
+G,located in the present-day administrative territorial entity,46
+G,located in the religious territorial entity,34
+G,located in the statistical territorial entity,9
+G,located in time zone,30
+G,located in/on physical feature,2536
+G,located on astronomical body,58
+G,located on street,373
+G,location,14136
+G,location of creation,279
+G,location of discovery,146
+G,location of first performance,19
+G,location of formation,569
+G,location of landing,21
+G,location of sense usage,14
+G,location of the point of view,5
+G,longest observed lifespan,1
+G,longitude of ascending node,8
+G,lower limit,5
+G,lowest atmospheric pressure,1
+G,lowest income threshold,9
+G,lowest point,40
+G,luminosity,1
+G,lyricist,1918
+G,made from material,281
+G,magazine capacity,4
+G,main building contractor,126
+G,main food source,29
+G,main regulatory text,52
+G,main subject,1690
+G,maintained by,252
+G,maintains linking to,139
+G,maintenance method,3
+G,majority opinion by,5
+G,male population,62
+G,mandates,216
+G,manifestation of,83
+G,manner of,112
+G,manner of death,6
+G,manner of inhumane treatment,1
+G,manufacturer,355
+G,mapping relation type,26
+G,market capitalization,2
+G,mascot,33
+G,mass,49
+G,match time of event,9
+G,matched by identifier from,1
+G,maximum age,21
+G,maximum capacity,105
+G,maximum current,1
+G,maximum food additive use level,1
+G,maximum gradient,2
+G,maximum number of players,3
+G,maximum operating altitude,1
+G,maximum size or capacity,118
+G,maximum sustained winds,3
+G,maximum temperature record,4
+G,maximum wavelength of sensitivity,1
+G,may prevent disease,12
+G,mean age,62
+G,mean lifetime,12
+G,means of locomotion,5
+G,measured physical quantity,8
+G,measurement scale,21
+G,median household income,9
+G,median income,14
+G,medical condition,132
+G,medical condition treated,1
+G,medically indicated in case of,1
+G,medicine marketing authorization,1
+G,member count,320
+G,member of,3433
+G,member of cabinet,7
+G,member of political party,789
+G,member of sports team,1056
+G,member of the crew of,132
+G,members have occupation,57
+G,merged into,398
+G,microarchitecture,1
+G,military branch,21
+G,military casualty classification,92
+G,military unit,2
+G,minimum age,278
+G,minimum temperature record,7
+G,minimum viable temperature,1
+G,minimum wage,16
+G,mirrors data from,8
+G,model item,27
+G,model year,1
+G,modified Mercalli intensity scale,5
+G,moisture absorption,2
+G,molecular function,1
+G,molecule conformation,2
+G,month of the year,100
+G,most populous urban area,318
+G,mother,416
+G,motto,48
+G,mount,28
+G,mountain range,38
+G,mountains classification,13
+G,mouth of the watercourse,131
+G,movement,65
+G,multi-channel network,23
+G,mushroom cap shape,1
+G,music created for,329
+G,musical conductor,156
+G,name day,1
+G,named after,5346
+G,named by,738
+G,named place on map,175
+G,narrative age,27
+G,narrative location,87
+G,narrative role,1
+G,national team appearances,17
+G,native language,40
+G,nature of statement,281
+G,net profit,9
+G,net worth,1
+G,newspaper format,3
+G,next crossing downstream,1
+G,next higher rank,569
+G,next level in hierarchy,14
+G,next lower rank,500
+G,noble title,53
+G,nomenclatural status,1
+G,nominal GDP,19
+G,nominal GDP per capita,8
+G,nominal share capital,3
+G,nominated by,60
+G,nominated for,123
+G,nominee,545
+G,not found in,54
+G,notable role,13
+G,notable work,1060
+G,notation,1
+G,number of accepted contributions,2
+G,number of at bats,9
+G,number of blood donors,1
+G,number of branches,318
+G,number of cases,37
+G,number of casualties,12
+G,number of children,30
+G,number of comments,1
+G,number of constituencies,66
+G,number of deaths,131
+G,number of downloads,1
+G,number of draws/ties,16
+G,number of elevators,8
+G,number of episodes,311
+G,number of evacuated,2
+G,number of graves,2
+G,number of hits,58
+G,number of hospital beds,15
+G,number of households,60
+G,number of houses,54
+G,number of housing units,73
+G,number of injured,28
+G,number of lanes,10
+G,number of likes,1
+G,number of losses,67
+G,number of matches played/races/starts,205
+G,number of medals,141
+G,number of medical tests,2
+G,number of missing,1
+G,number of out-of-school children,1
+G,number of pages,14
+G,number of participants,221
+G,number of parts of this work,58
+G,number of perpetrators,3
+G,number of platform faces,2
+G,number of points/goals attempted,1
+G,number of points/goals conceded,5
+G,number of points/goals/set scored,86
+G,number of polling stations,2
+G,number of processor cores,1
+G,number of records,2
+G,number of registered users/contributors,4
+G,number of representations,9
+G,number of rooms,27
+G,number of seasons,93
+G,number of seats,63
+G,number of seats in assembly,218
+G,number of spans,1
+G,"number of speakers, writers, or signers",48
+G,number of submissions,9
+G,number of subscribers,20
+G,number of survivors,6
+G,number of teachers,10
+G,number of victims of killer,26
+G,number of viewers/listeners,127
+G,number of volunteers,2
+G,number of wins,494
+G,number of works,214
+G,number of works accessible online,2
+G,numeric value,31
+G,oath of office date,66
+G,object of occurrence,256
+G,object of statement has role,71
+G,observed in,650
+G,occupant,380
+G,occupation,8670
+G,of (DEPRECATED),2341
+G,offers view on,132
+G,office contested,106
+G,office held by head of government,10
+G,office held by head of state,7
+G,official color,123
+G,official language,217
+G,official observer status in organization,58
+G,official religion,12
+G,official residence,52
+G,official symbol,139
+G,officialized by,422
+G,officially opened by,78
+G,online access status,82
+G,online service,46
+G,open days,4
+G,open period to,1
+G,opening time,5
+G,operating area,1518
+G,operating cost,9
+G,operating income,5
+G,operating system,7
+G,operator,1471
+G,opponent during disputation,24
+G,opposite of,263
+G,orbital eccentricity,2
+G,orbital period,24
+G,orbits completed,1
+G,ordered by,8
+G,organisation tax status,1
+G,organization directed by the office or position,168
+G,organizational divisions,181
+G,organizer,296
+G,orientation,58
+G,origin of the watercourse,216
+G,original broadcaster,6
+G,original combination,246
+G,original film format,29
+G,original language of film or TV show,159
+G,outflows,70
+G,output device,6
+G,overlies,92
+G,owned by,911
+G,owner of,531
+G,parallel street,5
+G,parent,549
+G,parent astronomical body,50
+G,parent club,5
+G,parent organization,165
+G,parent peak,2
+G,parent taxon,26
+G,parliamentary group,3
+G,parliamentary term,6
+G,part of,10622
+G,part of the series,48
+G,partially coincident with,503
+G,participant,1817
+G,participant in,2745
+G,participated in conflict,605
+G,participating team,110
+G,partner in business or sport,117
+G,partnership with,254
+G,parts per area,4
+G,party chief representative,110
+G,patient of,80
+G,patron saint,6
+G,patronage,49
+G,patronym or matronym,1
+G,payment types accepted,4
+G,penalty,40
+G,penciller,2
+G,per capita income,15
+G,performer,1266
+G,perimeter,2
+G,period of lactation,1
+G,permanent duplicated item,20
+G,permanent resident of,22
+G,permits,24
+G,perpetrator,21
+G,personal best,17
+G,personality trait of fictional character,26
+G,phonographic copyright,27
+G,physically interacts with,52
+G,place of birth,1938
+G,place of burial,75
+G,place of death,512
+G,place of detention,81
+G,place of devotion,6
+G,place of disappearance,8
+G,place of marriage,5
+G,place of publication,88
+G,place served by transport hub,199
+G,plaintiff,10
+G,platform,185
+G,playing hand,6
+G,plea,69
+G,plot expanded in,3
+G,podium finishes,9
+G,point in time,2407
+G,points awarded,27
+G,points for,26
+G,points/goal scored by,75
+G,pole positions,1
+G,political alignment,289
+G,political coalition,3
+G,political ideology,142
+G,population,1261
+G,population by native language,7
+G,port of registry,2
+G,position angle,1
+G,position held,4778
+G,position held by head of the organization,20
+G,position holder,273
+G,position in biological sequence,8
+G,position played on team / speciality,151
+G,possessed by spirit,10
+G,possible creator,37
+G,possible treatment,4
+G,poverty incidence,1
+G,power consumed,1
+G,powered by,51
+G,practiced by,448
+G,preceding halt on service,1
+G,precipitation height,108
+G,predicate for,33
+G,prerequisite,552
+G,present in work,334
+G,presented in,85
+G,presented works,283
+G,presenter,143
+G,prevalence,4
+G,price,146
+G,primary destinations,326
+G,principal investigator,1
+G,printed by,11
+G,prize money,50
+G,produced by,2408
+G,produced sound,13
+G,producer,225
+G,product certification,58
+G,product or material produced,1492
+G,production date,737
+G,production designer,19
+G,production manager,72
+G,production rate,56
+G,production statistics,94
+G,professional name,16
+G,professorship,1
+G,prohibits,214
+G,promoted,1
+G,pronunciation variety,112
+G,proportion,236
+G,proposed entity type,10
+G,proved by,3
+G,proxy,4
+G,public holiday,1
+G,public transport stop,30
+G,publication date,1663
+G,publication interval,4
+G,publisher,1027
+G,qualifies for event,4
+G,quality is the result of process,3
+G,quantity,1343
+G,quantity buried,5
+G,race time,6
+G,radio format,82
+G,ranking,199
+G,rate of fire,1
+G,ratified by,13
+G,rating,685
+G,raw material processed,8
+G,readable file format,2
+G,readership,1
+G,real GDP growth rate,1
+G,real estate developer,3
+G,recommended unit of measurement,1
+G,record label,478
+G,record of,2996
+G,record or record progression,34
+G,recorded at studio or venue,90
+G,recorded participant,33
+G,recording date,211
+G,recording location,139
+G,recording or performance of,1166
+G,recordist,469
+G,recovered by,271
+G,rector,9
+G,referee,8
+G,reference has role,20
+G,reference vocabulary,30
+G,"references work, tradition or theory",18
+G,refine date,899
+G,registration district,27
+G,regulated by,177
+G,reissue of,9
+G,relative,385
+G,relative humidity,1
+G,relative to,3285
+G,relegated,1
+G,relevant date for copyright,58
+G,religion or worldview,394
+G,religious order,2
+G,repeals,2
+G,replaced by,1040
+G,replaces,961
+G,reply to,2
+G,reports to,33
+G,representation type,8
+G,represented by,235
+G,represents,1816
+G,requires grammatical feature,6
+G,research intervention,4
+G,research measurement,1
+G,research project that contributed to this data set,1
+G,research site,41
+G,residence,1148
+G,residence time of water,1
+G,results,15
+G,retrieved,1
+G,reviewed by,164
+G,revival or touring version of,1
+G,reward,25
+G,reward program,7
+G,right to vote,37
+G,risk factor,3
+G,risk group,1
+G,role of agent(s) of action,3
+G,running mate,49
+G,runs batted in,1
+G,said to be the same as,791
+G,salinity,3
+G,samples from work,32
+G,sampling rate,2
+G,scenographer,1
+G,school class,1
+G,school district,21
+G,school of,101
+G,score method,80
+G,season,5
+G,season of club or team,1
+G,season starts,180
+G,section number,133
+G,seed,34
+G,semantic gender,41
+G,sensors,6
+G,separated from,372
+G,service entry,42
+G,service life,3
+G,service retirement,14
+G,set in environment,1
+G,set in period,17
+G,setlist,239
+G,settlement classification,53
+G,sex or gender,102
+G,sexual orientation,17
+G,shape,90
+G,shares border with,3491
+G,shelf life,3
+G,shipping port,5
+G,shown with features,1
+G,showrunner,8
+G,sibling,578
+G,side effect,4
+G,sidekick of,27
+G,signatory,322
+G,signed form,82
+G,significant environmental impact,2
+G,significant event,502
+G,significant person,257
+G,significant place,471
+G,signum,9
+G,simulates,24
+G,single taken from the album or EP,4
+G,sinogram reading pattern,17
+G,size designation,1
+G,size of team at finish,3
+G,size of team at start,3
+G,smells of,2
+G,social classification,117
+G,social media followers,2
+G,software engine,2
+G,software used for creation,2
+G,solved by,8
+G,solvent,6
+G,sound designer,9
+G,source of energy,21
+G,source of file,32
+G,source of income,74
+G,source of material,15
+G,source of transfer,649
+G,sourcing circumstances,25
+G,spacecraft docking/undocking date,1
+G,speaker,53
+G,species kept,2
+G,species protection status,10
+G,speed,42
+G,speed limit,28
+G,spoken by,213
+G,sponsor,544
+G,sport,571
+G,sports discipline competed in,15
+G,sports season of league or competition,28
+G,spouse,611
+G,squadron embarked,2
+G,stage crew member,2
+G,stage reached,593
+G,standards body,21
+G,start grade,2
+G,start of covered period,1
+G,start period,338
+G,start point,121
+G,start time,1283
+G,state of use,124
+G,stated in,379
+G,statement describes,34
+G,statement disputed by,544
+G,statement is subject of,257
+G,statement or content of identifier is regarded as spoiler for,1
+G,statement supported by,665
+G,statistical leader,1313
+G,statistical unit used,1
+G,stepparent,11
+G,stereoisomer of,1
+G,stipe character,1
+G,stock exchange,13
+G,storage capacity,12
+G,storyboard artist,8
+G,structural engineer,9
+G,structure replaced by,26
+G,structure replaces,6
+G,student,11
+G,student of,292
+G,studied by,43
+G,style of karate,1
+G,subclass of,812
+G,subdivision of this unit,19
+G,subject has role,2750
+G,subsidy,1
+G,substitute/deputy/replacement of office/officeholder,28
+G,successful candidate,12
+G,suicide rate,3
+G,superhuman feature or ability,18
+G,supervised by,36
+G,supplement to,63
+G,supported metadata,14
+G,supported sports team,2
+G,surface played on,5
+G,symbol of,285
+G,symbol represents,36
+G,symbolizes,141
+G,symptoms and signs,16
+G,synodic period,2
+G,syntactic dependency head relationship,5
+G,talk show guest,13
+G,target,47
+G,taxon author,10
+G,taxon especially protected in area,5
+G,taxon found at location,14
+G,taxon known by this common name,2
+G,taxon range,76
+G,taxon rank,34
+G,taxon synonym,78
+G,taxon synonym of,25
+G,taxonomic type,9
+G,teaching method,1
+G,team captain,29
+G,teams classification by time,1
+G,television judge,240
+G,temperature,27
+G,tempo marking,2
+G,temporal range end,2
+G,temporal range start,3
+G,term length of position,100
+G,terminus,116
+G,terminus location,55
+G,territory claimed by,260
+G,territory overlaps,26
+G,test score,7
+G,theorized by,388
+G,therapeutic area,1
+G,thickness,9
+G,this taxon is source of,26
+G,throughput,8
+G,time gap,20
+G,time in space,1
+G,time in the pouch,5
+G,time index,20
+G,time of discovery or invention,86
+G,time of earliest written record,14
+G,time of periapsis,2
+G,time period,1404
+G,time to altitude,1
+G,together with,2349
+G,tone or pitch accent class,9
+G,top scorer,1
+G,top-level Internet domain,2
+G,topographic prominence,3
+G,torque,1
+G,total assets,18
+G,total assists in career,8
+G,total debt,14
+G,total equity,5
+G,total expenditure,18
+G,total fertility rate,13
+G,total goals in career,13
+G,total liabilities,82
+G,total points in career,15
+G,total produced,55
+G,total reserves,14
+G,total revenue,35
+G,total shots in career,1
+G,total valid votes,34
+G,tournament format,6
+G,tournament type,8
+G,track gauge,6
+G,tracklist,8
+G,train depot,2
+G,trained by,59
+G,transcribed by,1
+G,transitivity,1
+G,translation of,132
+G,translator,30
+G,transmitted signal type,1
+G,tributary,315
+G,tributary orientation,10
+G,triples hit,1
+G,trophy awarded,39
+G,tuition fee,4
+G,twinned administrative body,5
+G,type host,3
+G,type locality (geology),7
+G,type of age limit,104
+G,type of document(s) held,20
+G,type of orbit,8
+G,type of reference,84
+G,type of variable star,8
+G,type of water supply,44
+G,typeface/font used,12
+G,typically sells,1
+G,uncertainty corresponds to,16
+G,under pressure,1
+G,underlies,40
+G,unemployment rate,1
+G,union of,49
+G,units sold,114
+G,unmarried partner,246
+G,update method,9
+G,upper limit,8
+G,urban population,1
+G,use restriction status,97
+G,use with property value,114
+G,used by,1800
+G,uses,1815
+G,valid in period,403
+G,valid in place,114
+G,"variety of lexeme, form or sense",122
+G,vehicle normally used,9
+G,vehicles per thousand people,4
+G,venous drainage,1
+G,verdict,12
+G,vertical depth,22
+G,vessel,27
+G,vessel class,17
+G,via,335
+G,victim(s),37
+G,visited by,16
+G,visitors per year,30
+G,voice actor,354
+G,voice type,9
+G,volcanic explosivity index,3
+G,voltage,1
+G,volume as quantity,61
+G,voted on by,6
+G,votes received,5
+G,warranty period,1
+G,water as percent of area,3
+G,wavelength,2
+G,wears,44
+G,website account on,162
+G,wheel arrangement,9
+G,wheelbase,2
+G,width,34
+G,wind speed,39
+G,winner,507
+G,work location,453
+G,work period (end),85
+G,work period (start),25
+G,working memory type,2
+G,workshop of,4
+G,writable file format,2
+G,writing language,17
+G,writing system,12
+G,x-offset,2
+G,young rider classification,1

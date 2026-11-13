@@ -1,0 +1,31 @@
+record_id,dataset,reason,teacher_sample_id,context_id,title,text_chars,triples
+H/5ab7f97a5542991d322237ef/3,H,longest_text,5ab7f97a5542991d322237ef,3,Nashville Terminal Subdivision,7903,48
+H/5a80071f5542992bc0c4a684/6,H,rare_relation,5a80071f5542992bc0c4a684,6,Lara Croft and the Guardian of Light,713,17
+H/5a72a2935542991f9a20c546/7,H,rare_relation,5a72a2935542991f9a20c546,7,Elana Amsterdam,630,12
+H/5abbd3ac55429931dba1458b/9,H,structural_signal,5abbd3ac55429931dba1458b,9,Gulfstream Natural Gas Pipeline,273,9
+H/5ab849d955429916710eb017/9,H,structural_signal,5ab849d955429916710eb017,9,Battle of Edson's Ridge,459,9
+H/5a81a4615542995ce29dcc1e/7,H,seeded_random,5a81a4615542995ce29dcc1e,7,Mascarene teal,1097,16
+H/5a7ca0ef55429907fabeefd3/5,H,seeded_random,5a7ca0ef55429907fabeefd3,5,Andrea Hlaváčková,695,13
+H/5add3b035542997545bbbcce/9,H,seeded_random,5add3b035542997545bbbcce,9,The Gate (song),241,9
+H/5a79caad5542994f819ef09f/9,H,seeded_random,5a79caad5542994f819ef09f,9,Shoki Kasahara,370,10
+H/5ac4f7e955429924173fb523/6,H,seeded_random,5ac4f7e955429924173fb523,6,Daniel Clifford (chef),324,6
+M/2hop__6870_16335/16,M,longest_text,2hop__6870_16335,16,Ashkenazi Jews,1952,9
+M/2hop__839126_472799/8,M,most_triples,2hop__839126_472799,8,2018 Winter Olympics,1713,77
+M/3hop1__46571_87694_64412/19,M,rare_relation,3hop1__46571_87694_64412,19,The Last Supper (Leonardo),145,7
+M/4hop3__373866_5189_38229_86687/1,M,rare_relation,4hop3__373866_5189_38229_86687,1,German reunification,677,6
+M/3hop2__125104_90098_10557/0,M,structural_signal,3hop2__125104_90098_10557,0,Middle Ages,1302,22
+M/3hop1__24980_42197_18397/18,M,structural_signal,3hop1__24980_42197_18397,18,Korean War,604,11
+M/2hop__142699_67465/17,M,seeded_random,2hop__142699_67465,17,Beyond the Beyond,504,11
+M/2hop__25788_25839/14,M,seeded_random,2hop__25788_25839,14,USB,646,9
+M/3hop2__88342_93066_47738/10,M,seeded_random,3hop2__88342_93066_47738,10,Miguel Cabrera,611,14
+M/4hop1__88342_75218_128008_80487/11,M,seeded_random,4hop1__88342_75218_128008_80487,11,LeBron James,693,14
+G/3hop1__92903_53576_49385_Answerable/12,G,longest_text,3hop1__92903_53576_49385_Answerable,12,Imperialism,1992,17
+G/2hop__753314_23140_Unanswerable/13,G,most_triples,2hop__753314_23140_Unanswerable,13,National debt of the United States,1223,121
+G/3hop1__481899_839945_66869_Answerable/1,G,rare_relation,3hop1__481899_839945_66869_Answerable,1,A Man Called Dagger,218,8
+G/2hop__136565_123863_Answerable/7,G,rare_relation,2hop__136565_123863_Answerable,7,I'm a Celebrity...Get Me Out of Here! (Australian TV series),547,32
+G/2hop__643569_55607_Unanswerable/3,G,structural_signal,2hop__643569_55607_Unanswerable,3,Somebody's Watching Me,339,7
+G/2hop__767960_55607_Answerable/19,G,structural_signal,2hop__767960_55607_Answerable,19,Izzie Stevens,1355,20
+G/2hop__620475_24846_Unanswerable/2,G,seeded_random,2hop__620475_24846_Unanswerable,2,Myanmar,630,15
+G/2hop__432945_51957_Unanswerable/11,G,seeded_random,2hop__432945_51957_Unanswerable,11,Charles Edward Herbert,769,13
+G/2hop__627916_89066_Answerable/13,G,seeded_random,2hop__627916_89066_Answerable,13,American Economic Journal,386,10
+G/2hop__559251_39289_Unanswerable/4,G,seeded_random,2hop__559251_39289_Unanswerable,4,Catherine Hayes Bailey,225,6
