@@ -25,6 +25,7 @@ credentials*.json
 # Local ML artifacts, not documentation or small contract examples
 data/raw/
 data/processed/
+data/teacher/
 datasets/
 models/
 checkpoints/

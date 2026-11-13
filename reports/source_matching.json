@@ -1,0 +1,96 @@
+{
+  "method": "Exact sample ID plus source context index; not semantic fact validation",
+  "source_manifest": {
+    "verified_at": "2026-11-11T19:44:34.627224+00:00",
+    "sources": [
+      {
+        "path": "data/raw/musique/musique_v1.0.zip",
+        "bytes": 272049578,
+        "sha256": "98f839bf2fd5319f5c688aed77901a6d5c30b3b9f9f691ab9a8ecafb045ee0cd",
+        "url": "https://drive.google.com/uc?export=download&id=1tGdADlNjWFaHLeZZGShh2IRcpO6Lv24h",
+        "homepage": "https://github.com/stonybrooknlp/musique",
+        "license": "CC-BY-4.0",
+        "distribution": "Official v1.0 archive linked by download_data.sh"
+      },
+      {
+        "path": "data/raw/hotpotqa/validation.parquet",
+        "bytes": 27452575,
+        "sha256": "c20b638ca82b21d04fe12e14ff417ad05153d4d215a65de54497fca4e972f7c6",
+        "url": "https://huggingface.co/datasets/hotpotqa/hotpot_qa/resolve/main/distractor/validation-00000-of-00001.parquet",
+        "homepage": "https://hotpotqa.github.io/",
+        "license": "CC-BY-SA-4.0",
+        "distribution": "HF hotpotqa/hotpot_qa, distractor validation, Parquet",
+        "note": "Original curtis.ml.cmu.edu host did not resolve during download"
+      }
+    ]
+  },
+  "dumps": [
+    {
+      "teacher_file": "kg_dump_hotpot_gpt4_1_onto_triplets.json",
+      "teacher_sha256": "b3236aa32c173890d9b52b4eec8a823ae8cf2b1692c2d2eff128f1c8a8d258ae",
+      "source": "hotpotqa/distractor/validation",
+      "source_records": 7405,
+      "teacher_samples": 200,
+      "matched_samples": 200,
+      "unmatched_sample_ids": [],
+      "teacher_contexts": 1999,
+      "matched_contexts": 1999,
+      "missing_contexts": [],
+      "empty_contexts": [],
+      "unique_texts_exact": 1997,
+      "answerability": {}
+    },
+    {
+      "teacher_file": "kg_dump_musique_gpt4_1_onto_triplets.json",
+      "teacher_sha256": "6797816003c371dd23356d335eba327de6fea913108a2c79b2e63376628bf914",
+      "source": "musique_ans_v1.0_dev",
+      "source_records": 2417,
+      "teacher_samples": 200,
+      "matched_samples": 200,
+      "unmatched_sample_ids": [],
+      "teacher_contexts": 3996,
+      "matched_contexts": 3996,
+      "missing_contexts": [],
+      "empty_contexts": [],
+      "unique_texts_exact": 3201,
+      "answerability": {
+        "true": 200
+      }
+    },
+    {
+      "teacher_file": "kg_dump_triplets_musique_train_split_occ_openai_gpt_oss_120b_onto.json",
+      "teacher_sha256": "ca8079821803cc43cfbc4eeb746af50910a034bffdaf4c4ab6111e580cdae85d",
+      "source": "musique_full_v1.0_train",
+      "source_records": 39876,
+      "teacher_samples": 1645,
+      "matched_samples": 1645,
+      "unmatched_sample_ids": [],
+      "teacher_contexts": 32844,
+      "matched_contexts": 32844,
+      "missing_contexts": [],
+      "empty_contexts": [],
+      "unique_texts_exact": 20726,
+      "answerability": {
+        "true": 831,
+        "false": 814
+      }
+    }
+  ],
+  "exact_text_overlap": [
+    {
+      "left": "kg_dump_hotpot_gpt4_1_onto_triplets.json",
+      "right": "kg_dump_musique_gpt4_1_onto_triplets.json",
+      "unique_shared_texts": 0
+    },
+    {
+      "left": "kg_dump_hotpot_gpt4_1_onto_triplets.json",
+      "right": "kg_dump_triplets_musique_train_split_occ_openai_gpt_oss_120b_onto.json",
+      "unique_shared_texts": 0
+    },
+    {
+      "left": "kg_dump_musique_gpt4_1_onto_triplets.json",
+      "right": "kg_dump_triplets_musique_train_split_occ_openai_gpt_oss_120b_onto.json",
+      "unique_shared_texts": 514
+    }
+  ]
+}

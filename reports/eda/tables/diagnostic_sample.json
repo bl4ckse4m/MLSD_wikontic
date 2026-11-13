@@ -1,0 +1,302 @@
+[
+  {
+    "record_id": "H/5ab7f97a5542991d322237ef/3",
+    "dataset": "H",
+    "reason": "longest_text",
+    "teacher_sample_id": "5ab7f97a5542991d322237ef",
+    "context_id": "3",
+    "title": "Nashville Terminal Subdivision",
+    "text_chars": 7903,
+    "triples": 48
+  },
+  {
+    "record_id": "H/5a80071f5542992bc0c4a684/6",
+    "dataset": "H",
+    "reason": "rare_relation",
+    "teacher_sample_id": "5a80071f5542992bc0c4a684",
+    "context_id": "6",
+    "title": "Lara Croft and the Guardian of Light",
+    "text_chars": 713,
+    "triples": 17
+  },
+  {
+    "record_id": "H/5a72a2935542991f9a20c546/7",
+    "dataset": "H",
+    "reason": "rare_relation",
+    "teacher_sample_id": "5a72a2935542991f9a20c546",
+    "context_id": "7",
+    "title": "Elana Amsterdam",
+    "text_chars": 630,
+    "triples": 12
+  },
+  {
+    "record_id": "H/5abbd3ac55429931dba1458b/9",
+    "dataset": "H",
+    "reason": "structural_signal",
+    "teacher_sample_id": "5abbd3ac55429931dba1458b",
+    "context_id": "9",
+    "title": "Gulfstream Natural Gas Pipeline",
+    "text_chars": 273,
+    "triples": 9
+  },
+  {
+    "record_id": "H/5ab849d955429916710eb017/9",
+    "dataset": "H",
+    "reason": "structural_signal",
+    "teacher_sample_id": "5ab849d955429916710eb017",
+    "context_id": "9",
+    "title": "Battle of Edson's Ridge",
+    "text_chars": 459,
+    "triples": 9
+  },
+  {
+    "record_id": "H/5a81a4615542995ce29dcc1e/7",
+    "dataset": "H",
+    "reason": "seeded_random",
+    "teacher_sample_id": "5a81a4615542995ce29dcc1e",
+    "context_id": "7",
+    "title": "Mascarene teal",
+    "text_chars": 1097,
+    "triples": 16
+  },
+  {
+    "record_id": "H/5a7ca0ef55429907fabeefd3/5",
+    "dataset": "H",
+    "reason": "seeded_random",
+    "teacher_sample_id": "5a7ca0ef55429907fabeefd3",
+    "context_id": "5",
+    "title": "Andrea Hlaváčková",
+    "text_chars": 695,
+    "triples": 13
+  },
+  {
+    "record_id": "H/5add3b035542997545bbbcce/9",
+    "dataset": "H",
+    "reason": "seeded_random",
+    "teacher_sample_id": "5add3b035542997545bbbcce",
+    "context_id": "9",
+    "title": "The Gate (song)",
+    "text_chars": 241,
+    "triples": 9
+  },
+  {
+    "record_id": "H/5a79caad5542994f819ef09f/9",
+    "dataset": "H",
+    "reason": "seeded_random",
+    "teacher_sample_id": "5a79caad5542994f819ef09f",
+    "context_id": "9",
+    "title": "Shoki Kasahara",
+    "text_chars": 370,
+    "triples": 10
+  },
+  {
+    "record_id": "H/5ac4f7e955429924173fb523/6",
+    "dataset": "H",
+    "reason": "seeded_random",
+    "teacher_sample_id": "5ac4f7e955429924173fb523",
+    "context_id": "6",
+    "title": "Daniel Clifford (chef)",
+    "text_chars": 324,
+    "triples": 6
+  },
+  {
+    "record_id": "M/2hop__6870_16335/16",
+    "dataset": "M",
+    "reason": "longest_text",
+    "teacher_sample_id": "2hop__6870_16335",
+    "context_id": "16",
+    "title": "Ashkenazi Jews",
+    "text_chars": 1952,
+    "triples": 9
+  },
+  {
+    "record_id": "M/2hop__839126_472799/8",
+    "dataset": "M",
+    "reason": "most_triples",
+    "teacher_sample_id": "2hop__839126_472799",
+    "context_id": "8",
+    "title": "2018 Winter Olympics",
+    "text_chars": 1713,
+    "triples": 77
+  },
+  {
+    "record_id": "M/3hop1__46571_87694_64412/19",
+    "dataset": "M",
+    "reason": "rare_relation",
+    "teacher_sample_id": "3hop1__46571_87694_64412",
+    "context_id": "19",
+    "title": "The Last Supper (Leonardo)",
+    "text_chars": 145,
+    "triples": 7
+  },
+  {
+    "record_id": "M/4hop3__373866_5189_38229_86687/1",
+    "dataset": "M",
+    "reason": "rare_relation",
+    "teacher_sample_id": "4hop3__373866_5189_38229_86687",
+    "context_id": "1",
+    "title": "German reunification",
+    "text_chars": 677,
+    "triples": 6
+  },
+  {
+    "record_id": "M/3hop2__125104_90098_10557/0",
+    "dataset": "M",
+    "reason": "structural_signal",
+    "teacher_sample_id": "3hop2__125104_90098_10557",
+    "context_id": "0",
+    "title": "Middle Ages",
+    "text_chars": 1302,
+    "triples": 22
+  },
+  {
+    "record_id": "M/3hop1__24980_42197_18397/18",
+    "dataset": "M",
+    "reason": "structural_signal",
+    "teacher_sample_id": "3hop1__24980_42197_18397",
+    "context_id": "18",
+    "title": "Korean War",
+    "text_chars": 604,
+    "triples": 11
+  },
+  {
+    "record_id": "M/2hop__142699_67465/17",
+    "dataset": "M",
+    "reason": "seeded_random",
+    "teacher_sample_id": "2hop__142699_67465",
+    "context_id": "17",
+    "title": "Beyond the Beyond",
+    "text_chars": 504,
+    "triples": 11
+  },
+  {
+    "record_id": "M/2hop__25788_25839/14",
+    "dataset": "M",
+    "reason": "seeded_random",
+    "teacher_sample_id": "2hop__25788_25839",
+    "context_id": "14",
+    "title": "USB",
+    "text_chars": 646,
+    "triples": 9
+  },
+  {
+    "record_id": "M/3hop2__88342_93066_47738/10",
+    "dataset": "M",
+    "reason": "seeded_random",
+    "teacher_sample_id": "3hop2__88342_93066_47738",
+    "context_id": "10",
+    "title": "Miguel Cabrera",
+    "text_chars": 611,
+    "triples": 14
+  },
+  {
+    "record_id": "M/4hop1__88342_75218_128008_80487/11",
+    "dataset": "M",
+    "reason": "seeded_random",
+    "teacher_sample_id": "4hop1__88342_75218_128008_80487",
+    "context_id": "11",
+    "title": "LeBron James",
+    "text_chars": 693,
+    "triples": 14
+  },
+  {
+    "record_id": "G/3hop1__92903_53576_49385_Answerable/12",
+    "dataset": "G",
+    "reason": "longest_text",
+    "teacher_sample_id": "3hop1__92903_53576_49385_Answerable",
+    "context_id": "12",
+    "title": "Imperialism",
+    "text_chars": 1992,
+    "triples": 17
+  },
+  {
+    "record_id": "G/2hop__753314_23140_Unanswerable/13",
+    "dataset": "G",
+    "reason": "most_triples",
+    "teacher_sample_id": "2hop__753314_23140_Unanswerable",
+    "context_id": "13",
+    "title": "National debt of the United States",
+    "text_chars": 1223,
+    "triples": 121
+  },
+  {
+    "record_id": "G/3hop1__481899_839945_66869_Answerable/1",
+    "dataset": "G",
+    "reason": "rare_relation",
+    "teacher_sample_id": "3hop1__481899_839945_66869_Answerable",
+    "context_id": "1",
+    "title": "A Man Called Dagger",
+    "text_chars": 218,
+    "triples": 8
+  },
+  {
+    "record_id": "G/2hop__136565_123863_Answerable/7",
+    "dataset": "G",
+    "reason": "rare_relation",
+    "teacher_sample_id": "2hop__136565_123863_Answerable",
+    "context_id": "7",
+    "title": "I'm a Celebrity...Get Me Out of Here! (Australian TV series)",
+    "text_chars": 547,
+    "triples": 32
+  },
+  {
+    "record_id": "G/2hop__643569_55607_Unanswerable/3",
+    "dataset": "G",
+    "reason": "structural_signal",
+    "teacher_sample_id": "2hop__643569_55607_Unanswerable",
+    "context_id": "3",
+    "title": "Somebody's Watching Me",
+    "text_chars": 339,
+    "triples": 7
+  },
+  {
+    "record_id": "G/2hop__767960_55607_Answerable/19",
+    "dataset": "G",
+    "reason": "structural_signal",
+    "teacher_sample_id": "2hop__767960_55607_Answerable",
+    "context_id": "19",
+    "title": "Izzie Stevens",
+    "text_chars": 1355,
+    "triples": 20
+  },
+  {
+    "record_id": "G/2hop__620475_24846_Unanswerable/2",
+    "dataset": "G",
+    "reason": "seeded_random",
+    "teacher_sample_id": "2hop__620475_24846_Unanswerable",
+    "context_id": "2",
+    "title": "Myanmar",
+    "text_chars": 630,
+    "triples": 15
+  },
+  {
+    "record_id": "G/2hop__432945_51957_Unanswerable/11",
+    "dataset": "G",
+    "reason": "seeded_random",
+    "teacher_sample_id": "2hop__432945_51957_Unanswerable",
+    "context_id": "11",
+    "title": "Charles Edward Herbert",
+    "text_chars": 769,
+    "triples": 13
+  },
+  {
+    "record_id": "G/2hop__627916_89066_Answerable/13",
+    "dataset": "G",
+    "reason": "seeded_random",
+    "teacher_sample_id": "2hop__627916_89066_Answerable",
+    "context_id": "13",
+    "title": "American Economic Journal",
+    "text_chars": 386,
+    "triples": 10
+  },
+  {
+    "record_id": "G/2hop__559251_39289_Unanswerable/4",
+    "dataset": "G",
+    "reason": "seeded_random",
+    "teacher_sample_id": "2hop__559251_39289_Unanswerable",
+    "context_id": "4",
+    "title": "Catherine Hayes Bailey",
+    "text_chars": 225,
+    "triples": 6
+  }
+]

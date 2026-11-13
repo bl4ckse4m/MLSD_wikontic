@@ -4,9 +4,9 @@ Wikontic Lite преобразует текст в граф знаний: сущ
 связанные с исходными фрагментами. Результат можно проверить, исправить и сохранить
 в JSON для дальнейшей работы с базой знаний.
 
-Проект разрабатывается в рамках курса ML System Design. На этапе ДЗ №1 подготовлены
-постановка задачи и окружение разработки. Обучение модели и реализация сервиса —
-следующие этапы.
+Проект разрабатывается в рамках курса ML System Design. В ДЗ №1 подготовлены
+постановка и окружение разработки, в ДЗ №2 — сопоставление данных, EDA и подробный
+план обучения и оценки. Модель и сервис пока не реализованы.
 
 ## Сценарий использования
 
@@ -82,11 +82,27 @@ Wikontic Lite преобразует текст в граф знаний: сущ
 README.md
 pyproject.toml
 requirements-dev.txt
+requirements-data.txt
+requirements-eda.txt
 .pre-commit-config.yaml
 .gitignore
 .github/workflows/checks.yml
 docs/
   ml_system_design_doc.md
+scripts/
+  download_qa_sources.py
+  match_teacher_sources.py
+  eda.py
+reports/
+  source_matching.md
+  source_matching.json
+  eda/
+    README.md
+    diagnostic_review.md
+    figures/
+    tables/
+tests/
+  test_eda.py
 src/
   wikontic_lite/
     __init__.py
@@ -107,6 +123,81 @@ python -m pip install --no-deps --no-build-isolation -e .
 Пока пакет содержит только каркас: GPU, ключи API, базы данных и ML-библиотеки для
 его установки не требуются. Прямые версии инструментов закреплены в
 `requirements-dev.txt`; транзитивный lock-файл пока не добавлен.
+
+## Данные для ДЗ №2
+
+Учительские дампы HotpotQA и MuSiQue размещаются локально в `data/teacher/`.
+Они не входят в GitHub-репозиторий. Набор размещается на Hugging Face Datasets:
+[bl4ckse4m/wikontic-lite-teacher-data](https://huggingface.co/datasets/bl4ckse4m/wikontic-lite-teacher-data).
+Для воспроизведения закреплена ревизия `48caaeef5a103a775392a4b7fa14c90fa94e259f`.
+14 ноября 2026 года все три файла проверены анонимным скачиванием этой версии:
+SHA-256 совпадают с локальными дампами. Набор опубликован под CC BY-SA 4.0;
+лицензия данных не определяет лицензию кода проекта.
+
+```bash
+python -m pip install huggingface_hub
+
+HF_DATASET_ID="bl4ckse4m/wikontic-lite-teacher-data"
+HF_DATASET_REVISION="48caaeef5a103a775392a4b7fa14c90fa94e259f"
+hf download "$HF_DATASET_ID" \
+  --repo-type dataset \
+  --revision "$HF_DATASET_REVISION" \
+  --include "kg_dump*.json" \
+  --local-dir data/teacher
+```
+
+Команда предполагает, что три JSON лежат в корне Dataset. Для публичного
+негейтированного набора авторизация обычно не требуется; для private/gated
+сначала потребуется `hf auth login` и разрешение на доступ. Токены не должны
+попадать в README или конфигурации проекта.
+
+Ожидаемые локальные имена:
+
+```text
+data/teacher/
+  kg_dump_hotpot_gpt4_1_onto_triplets.json
+  kg_dump_musique_gpt4_1_onto_triplets.json
+  kg_dump_triplets_musique_train_split_occ_openai_gpt_oss_120b_onto.json
+```
+
+Имя HotpotQA-файла на HF должно совпадать с указанным выше. Переименование не
+должно менять содержимое: контрольные суммы дампов сохранены в
+`reports/source_matching.json`. Закреплённая ревизия позволяет повторить анализ
+даже после обновления Dataset.
+
+Загрузка исходных QA-текстов и сопоставление с дампами выполняются отдельно
+от dev-проверок:
+
+```bash
+python -m pip install -r requirements-data.txt
+python scripts/download_qa_sources.py
+python scripts/match_teacher_sources.py
+```
+
+Исходные файлы сохраняются в `data/raw/`, восстановленные контексты —
+в `data/processed/`. Эти каталоги исключены через `.gitignore`.
+Источники, лицензии, результаты и ограничения описаны в
+[отчёте сопоставления данных](reports/source_matching.md).
+
+### EDA
+
+```bash
+python -m pip install -r requirements-eda.txt
+python scripts/eda.py --seed 42
+python -m unittest discover -s tests -v
+```
+
+EDA использует файлы предыдущего шага и выполняется на CPU. Результаты:
+[отчёт с семью графиками](reports/eda/README.md),
+[диагностический разбор 30 примеров](reports/eda/diagnostic_review.md)
+и агрегированные таблицы в `reports/eda/tables/`. Локальные тексты выбранных
+примеров, подробные длины и кандидат группового разбиения находятся
+в `data/processed/eda/`, не в публичных артефактах.
+
+Восстановлено 38 839 контекстных записей и обнаружены повторы между источниками,
+37 структурно невалидных SPO, 4 пустых ответа и отсутствие evidence. Пробная
+train/validation не имеет общих нормализованных текстов и заголовков, но не
+является независимым тестом. Полный план очистки и моделей — в §2.3 дизайн-документа.
 
 ## Проверки
 
@@ -140,9 +231,11 @@ pre-commit run --all-files
 
 ### CI
 
-GitHub Actions запускает те же проверки на push в `main` и `hw_1`, а также на PR
-в эти ветки. Workflow использует Python 3.12 и dev-зависимости, не требует моделей,
-GPU и секретов. Статус конкретного запуска доступен во вкладке Actions.
+GitHub Actions запускает проверки на push в `main`, `hw_1` и `hw_2`, а также на PR
+в эти ветки. Отдельная CPU-задача запускает unit-тесты логики EDA на небольших
+синтетических примерах. Полный EDA в CI не выполняется: для него нужны локальные
+учительские данные. Workflow не требует моделей, GPU и секретов.
+Статус конкретного запуска доступен во вкладке Actions.
 
 ## Этапы работы
 

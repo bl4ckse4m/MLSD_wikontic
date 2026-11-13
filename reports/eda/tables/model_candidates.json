@@ -1,0 +1,39 @@
+{
+  "inspected_on": "2026-11-12",
+  "method": "Public model API and config.json only; no weights, training or inference",
+  "gpu": {
+    "name": "NVIDIA GeForce RTX 5070 Ti",
+    "memory_total_mib": 16303,
+    "driver": "580.95.05",
+    "source": "nvidia-smi"
+  },
+  "cpu_and_ram": {
+    "cpu": "AMD Ryzen 7 9800X3D",
+    "ram_gb": 32,
+    "source": "Project owner"
+  },
+  "candidates": [
+    {
+      "id": "HuggingFaceTB/SmolLM2-1.7B-Instruct",
+      "revision": "31b70e2e869a7173562077fd711b654946d38674",
+      "license": "apache-2.0",
+      "max_position_embeddings": 8192,
+      "safetensors_parameters": 1711376384
+    },
+    {
+      "id": "Qwen/Qwen3-1.7B",
+      "revision": "70d244cc86ccca08cf5af4e1e306ecf908b1ad5e",
+      "license": "apache-2.0",
+      "max_position_embeddings": 40960,
+      "safetensors_parameters": 2031739904
+    },
+    {
+      "id": "Qwen/Qwen3-4B-Instruct-2507",
+      "revision": "cdbee75f17c01a7cc42f958dc650907174af0554",
+      "license": "apache-2.0",
+      "max_position_embeddings": 262144,
+      "safetensors_parameters": 4022468096
+    }
+  ],
+  "limitation": "Model context limits are not achievable training lengths on this GPU; software compatibility and peak memory remain untested"
+}
